@@ -5,6 +5,7 @@
     "specialisations": [
         {"id": "CEICDH", "name": "Chemical Product Engineering"}
     ],
+    "school": "CEIC",
     "uoc": 192,
     "validity": {
         "from": "2026",
@@ -41,7 +42,7 @@
             "CEIC2005",
             {
                 "id": "DESN2000",
-                "or": ["DESN2000", "DESN2000-CEIC"]
+                "or": ["DESN2000", "DESN2000ceic"]
             },
             {
                 "id": "MATH2018/2019",

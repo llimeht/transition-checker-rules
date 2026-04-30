@@ -5,6 +5,7 @@
     "specialisations": [
         {"id": "CEICKS", "name": "Chemical Engineering"}
     ],
+    "school": "CEIC",
     "uoc": 96,
     "validity": {
         "from": "2024",

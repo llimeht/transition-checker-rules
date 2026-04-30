@@ -5,6 +5,7 @@
     "specialisations": [
         {"id": "CEICAH", "name": "Chemical Engineering"}
     ],
+    "school": "CEIC",
     "uoc": 192,
     "validity": {
         "from": "2000",
@@ -41,7 +42,7 @@
             "CEIC2005",
             "CEIC2007",
             {
-                "or": ["DESN2000", "DESN2000-CEIC"]
+                "or": ["DESN2000", "DESN2000ceic"]
             },
             {
                 "id": "MATH2018/2019",

@@ -5,6 +5,7 @@
     "specialisations": [
         {"id": "FOODKH", "name": "Food Science and Nutrition"}
     ],
+    "school": "CEIC",
     "uoc": 192,
     "validity": {
         "from": "2000",

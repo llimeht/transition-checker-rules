@@ -5,11 +5,19 @@
     "specialisations": [
         {"id": "CEICKS", "name": "Chemical Engineering (with RPL)"}
     ],
+    "school": "CEIC",
     "uoc": 48,
     "validity": {
         "from": "2024",
         "to": "2029"
     },
+    "rpl": [
+        "ENGG0017",
+        "ENGG0020",
+        "ENGG0023",
+        "ENGG0024",
+        "CEICKSRPL48"
+    ],
     "required": {
         "ETM Electives": [
             "CEIC4000"
