@@ -38,10 +38,7 @@
             "MICR2011",
             "PHSL2101",
             "PHSL2201",
-            "PHCM2001",
-            {
-                "or": ["BIOC2101", "BIOC2181"]
-            }
+            "PHCM2001"
         ],
         "Level 3": [
             "FOOD3010",
@@ -61,10 +58,9 @@
         ],
         "Discipline electives": [
             {
-                "min": 3,
+                "min": 2,
                 "placeholder": "FOODeeee",
                 "from": [
-                    "FOODeeee",
                     "BABS3031",
                     "BABS3071",
                     "BIOC3261",

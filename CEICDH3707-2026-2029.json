@@ -21,7 +21,7 @@
                 ]
             },
             {
-                "id": "PHYS1121+1131",
+                "id": "PHYS1A",
                 "or": ["PHYS1121", "PHYS1131"]
             },
             "ENGG1811",
@@ -74,7 +74,6 @@
                 "min": 2,
                 "placeholder": "CEICeeee",
                 "from": [
-                    "CEICeeee",
                     "CEIC4951",
                     "CEIC4952",
                     "CEIC4953",
