@@ -1,0 +1,101 @@
+{
+    "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
+    "career": "Postgraduate",
+    "program": {"id": "8338", "name": "Master of Engineering Science"},
+    "specialisations": [
+        {"id": "FOODCS", "name": "Food Process Engineering"}
+    ],
+    "school": "CEIC",
+    "uoc": 96,
+    "validity": {
+        "from": "2024",
+        "to": "2029"
+    },
+    "required": {
+        "FDK Core": [
+            {
+                "id": "FOODCSfdkc",
+                "or": ["FOOD1120", "FOOD3060"]
+            }
+        ],
+        "DK Core": [
+            "CEIC6711",
+            "FOOD8010",
+            "FOOD8020",
+            "FOOD8030"
+        ],
+        "DK Electives": [
+            {
+                "min": 4,
+                "placeholder": "FOODCSdke",
+                "from": [
+                    "CEIC6712",
+                    "FOOD8110",
+                    "FOOD8220",
+                    "FOOD8320",
+                    "FOOD8403",
+                    "FOOD9102",
+                    "FOOD9103",
+                    "GSOE9997"
+                ]
+            }
+        ],
+        "ETM Core": [
+            "CEIC8204"
+        ],
+        "ETM Electives": [
+            "CEIC4000",
+            "CVEN9701",
+            "CVEN9731",
+            "CVEN9888",
+            "CVEN9892",
+            "FOOD9104",
+            "GSOE9017",
+            "GSOE9210",
+            "GSOE9340",
+            "GSOE9510",
+            "GSOE9712",
+            "GSOE9810",
+            "GSOE9820",
+            "GSOE9830",
+            "GSOE9997"
+        ],
+        "ADK Core": [
+            "FOOD8801"
+        ],
+        "ADK Electives": [
+            {
+                "min": 2,
+                "placeholder": "FOODCSadke",
+                "from": [
+                    "CEIC4954",
+                    "CEIC6789",
+                    "CEIC8102",
+                    "CEIC8341",
+                    "FOOD8450",
+                    "FOOD9100"
+                ]
+            }
+        ],
+        "Capstone": [
+            {
+                "id": "ResearchMethods",
+                "or": ["GSOE9010", "GSOE9011"]
+            },
+            {
+                "id": "CapstoneProject",
+                "or": [
+                    {
+                        "and": ["CEIC9007", "CEIC9008"]
+                    },
+                    {
+                        "and": ["CEIC9451", "CEIC9452"]
+                    }
+                ]
+            }
+        ]
+    }
+}
+

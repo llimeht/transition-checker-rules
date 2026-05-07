@@ -1,0 +1,93 @@
+{
+    "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
+    "career": "Postgraduate",
+    "program": {"id": "8338", "name": "Master of Science"},
+    "specialisations": [
+        {"id": "FOODSS", "name": "Food Science and Technology"}
+    ],
+    "school": "CEIC",
+    "uoc": 96,
+    "validity": {
+        "from": "2024",
+        "to": "2029"
+    },
+    "required": {
+        "DK Core": [
+            "FOOD3060",
+            "FOOD8010",
+            "FOOD8020",
+            "FOOD8030"
+        ],
+        "DK Electives": [
+            {
+                "min": 3,
+                "placeholder": "FOODSSdke",
+                "from": [
+                    "CEIC6711",
+                    "CEIC6712",
+                    "FOOD8220",
+                    "FOOD8320",
+                    "FOOD8450",
+                    "FOOD8801",
+                    "FOOD9100",
+                    "GSOE9997"
+                ]
+            }
+        ],
+        "STM Core": [
+            "CEIC8204"
+        ],
+        "STM Electives": [
+            "CEIC4000",
+            "CVEN9701",
+            "CVEN9731",
+            "CVEN9888",
+            "CVEN9892",
+            "FOOD9104",
+            "GSOE9017",
+            "GSOE9210",
+            "GSOE9340",
+            "GSOE9510",
+            "GSOE9712",
+            "GSOE9810",
+            "GSOE9820",
+            "GSOE9830"
+        ],
+        "ADK Core": [
+            "FOOD9102",
+            "FOOD9103"
+        ],
+        "ADK Electives": [
+            {
+                "min": 2,
+                "placeholder": "FOODSSadke",
+                "from": [
+                    "CEIC4954",
+                    "CEIC6789",
+                    "FOOD8110",
+                    "FOOD8403"
+                ]
+            }
+        ],
+        "Capstone": [
+            {
+                "id": "ResearchMethods",
+                "or": ["GSOE9010", "GSOE9011"]
+            },
+            {
+                "id": "CapstoneProject",
+                "or": [
+                    {
+                        "and": ["CEIC9007", "CEIC9008"]
+                    },
+                    {
+                        "and": ["CEIC9451", "CEIC9452"]
+                    }
+                ]
+            }
+        ]
+    }
+}
+
