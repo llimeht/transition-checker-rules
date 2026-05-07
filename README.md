@@ -20,7 +20,7 @@ variant of a specialisation). File names follow the pattern:
   e.g. `CEICDH3707-2020-2025.json`
 
 The file format is documented in
-[FILE-FORMATS.md](https://github.com/llimeht/transition-checker/-/blob/main/FILE-FORMATS.md)
+[FILE-FORMATS.md](https://github.com/llimeht/transition-checker/blob/main/FILE-FORMATS.md)
 in the main repository.
 
 ## Usage
