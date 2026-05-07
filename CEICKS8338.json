@@ -30,8 +30,7 @@
                     "CEIC8104",
                     "CHEN6703",
                     "FOOD8010",
-                    "GSOE9111",
-                    "CEICKSdke"
+                    "GSOE9111"
                 ]
             }
         ],
@@ -78,7 +77,7 @@
                 "id": "CapstoneProject",
                 "or": [
                     {
-                        "and": ["CEIC9007", "CEIC90008"]
+                        "and": ["CEIC9007", "CEIC9008"]
                     },
                     {
                         "and": ["CEIC9451", "CEIC9452"]
