@@ -1,5 +1,7 @@
 {
     "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
     "career": "Postgraduate",
     "program": {"id": "8338", "name": "Master of Engineering Science"},
     "specialisations": [

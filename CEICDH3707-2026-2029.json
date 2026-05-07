@@ -1,5 +1,7 @@
 {
     "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
     "career": "Undergraduate",
     "program": {"id": "3707", "name": "Bachelor of Engineering (Honours)"},
     "specialisations": [

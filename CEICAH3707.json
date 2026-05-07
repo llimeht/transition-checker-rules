@@ -1,5 +1,7 @@
 {
     "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
     "career": "Undergraduate",
     "program": {"id": "3707", "name": "Bachelor of Engineering (Honours)"},
     "specialisations": [
@@ -15,6 +17,7 @@
         "Level 1": [
             {
                 "id": "CHEM1A+1B",
+                "_comment": "Unofficial cut-out to permit IPT into the specialisation",
                 "or": [
                     { "and": ["CHEM1811", "CHEM1821"] },
                     { "and": ["CHEM1011", "CHEM1021", "CEIC1000"] }
