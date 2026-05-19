@@ -1,0 +1,78 @@
+{
+    "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
+    "career": "Undergraduate",
+    "program": {"id": "3131", "name": "Bachelor of Engineering (Honours)"},
+    "specialisations": [
+        {"id": "MATSM1", "name": "Materials Science and Engineering"}
+    ],
+    "school": "MATS",
+    "uoc": 192,
+    "validity": {
+        "from": "2024",
+        "to": "2029"
+    },
+    "required": {
+        "Level 1": [
+            "CHEM1811",
+            "CHEM1821",
+            "PHYS1121",
+            "DESN1000",
+            "ENGG1811",
+            "MATH1131",
+            "MATH1231",
+            "MATHS1192"
+        ],
+        "Level 2": [
+            "MATH2019",
+            "MATH2089",
+            "MATS2001",
+            "MATS2003",
+            "MATS2004",
+            "MATS2008",
+            "MATS2009"
+        ],
+        "Level 3": [
+            "MATS3001",
+            "MATS3002",
+            "MATS3004",
+            "MATS3005",
+            "MATS3006",
+            "MATS3007",
+            "MATS3008"
+        ],
+        "Level 4": [
+            "MATS4104",
+            "MATS4105",
+            {
+                "id": "Thesis",
+                "or": [
+                    { "and": ["MATS4020", "MATS4022"] },
+                    { "and": ["MATS4025", "MATS4026", "MATS4027"] }
+                ]
+            }
+        ],
+        "Discipline electives": [
+            {
+                "min": 2,
+                "placeholder": "MATSeeee",
+                "from": [
+                    "MATS4004",
+                    "MATS4007",
+                    "MATS4016",
+                    "MATS4017",
+                    "MATS4018",
+                    "MATS4019"
+                ]
+            }
+        ],
+        "Free Electives": [
+            "FREE1",
+            "FREE2",
+            "GenEd1",
+            "GenEd2"
+        ]
+    }
+}
+

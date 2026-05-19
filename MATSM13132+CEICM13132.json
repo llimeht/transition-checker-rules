@@ -1,0 +1,235 @@
+{
+    "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
+    "career": "Undergraduate",
+    "program": {"id": "3132", "name": "Bachelor of Engineering (Honours)"},
+    "specialisations": [
+        {"id": "MATSM1", "name": "Materials Science and Engineering"},
+        {"id": "CEICM1", "name": "Chemical Engineering"}
+    ],
+    "school": "MATS",
+    "uoc": 240,
+    "validity": {
+        "from": "2024",
+        "to": "2029"
+    },
+    "required": {
+        "MATSM1 Level 1": [
+            "CHEM1811",
+            "CHEM1821",
+            "PHYS1121",
+            "DESN1000",
+            "ENGG1811",
+            "MATH1131",
+            "MATH1231",
+            "MATS1192"
+        ],
+        "MATSM1 Level 2": [
+            {
+                "id": "MATH2018/2019",
+                "or": ["MATH2019", "MATH2018"]
+            },
+            "MATH2089",
+            "MATS2001",
+            "MATS2003",
+            "MATS2004",
+            "MATS2008",
+            "MATS2009"
+        ],
+        "MATSM1 Level 3": [
+            "MATS3001",
+            "MATS3002",
+            "MATS3004",
+            "MATS3005",
+            "MATS3006",
+            "MATS3007",
+            "MATS3008"
+        ],
+        "MATSM1 Level 4": [
+            "MATS4014",
+            "MATS4015",
+            {
+                "id": "Thesis",
+                "or": [
+                    { "and": ["MATS4020", "MATS4022"] },
+                    { "and": ["MATS4025", "MATS4026", "MATS4027"] }
+                ]
+            }
+        ],
+        "Discipline electives": [
+            {
+                "min": 2,
+                "placeholder": "MATSeeee",
+                "from": [
+                    "MATS4004",
+                    "MATS4007",
+                    "MATS4016",
+                    "MATS4017",
+                    "MATS4018",
+                    "MATS4019"
+                ]
+            }
+        ],
+
+        "CEICM1 Level 1": [
+            {
+                "min": 3,
+                "placeholder": "CEICM11xxx",
+                "from": [
+                    "CHEM1811",
+                    "CHEM1821",
+                    {
+                        "id": "PHYS1A",
+                        "or": ["PHYS1121", "PHYS1131"]
+                    },
+                    "ENGG1811",
+                    "DESN1000",
+                    {
+                        "id": "MATH1A",
+                        "or": ["MATH1131", "MATH1141"]
+                    },
+                    {
+                        "id": "MATH1B",
+                        "or": ["MATH1231", "MATH1241"]
+                    }
+                ]
+            }
+        ],
+        "CEICM1 Level 2": [
+            {
+                "min": 3,
+                "placeholder": "CEICM12xxx",
+                "from": [
+                    "CEIC2000",
+                    "CEIC2001",
+                    "CEIC2002",
+                    "CEIC2005",
+                    "CEIC2007",
+                    {
+                        "or": ["DESN2000", "DESN2000ceic"]
+                    },
+                    {
+                        "id": "MATH2018/2019",
+                        "or": ["MATH2019", "MATH2018"]
+                    },
+                    "MATH2089"
+                ]
+            }
+        ],
+        "CEICM1 Level 3/4 Prescribed Electives": [
+            {
+                "min": 4,
+                "placeholder": "CEICM134xx",
+                "from": [
+                    "CEIC3000",
+                    "CEIC3001",
+                    "CEIC3004",
+                    "CEIC3005",
+                    "CEIC3006",
+                    "CEIC3007",
+                    "CEIC4000",
+                    "CEIC4954",
+                    "CEIC6004",
+                    "CEIC6711",
+                    "CEIC6712",
+                    "CEIC6714",
+                    "CEIC6789",
+                    "CEIC8102",
+                    "CEIC8104",
+                    "CEIC8204",
+                    "CEIC8330",
+                    "CEIC8341",
+                    "CHEM2041",
+                    "CHEN6701",
+                    "CHEN6703",
+                    "CHEN6706",
+                    "ELEC4445",
+                    "ENGG3001",
+                    "ENGG4103",
+                    "ENGG4111",
+                    "FOOD3010",
+                    "FOOD4450"
+                ]
+            }
+        ],
+        "CEICM1 Electives": [
+            {
+                "min": 6,
+                "placeholder": "CEICM1ee",
+                "from": [
+                    "CHEM1811",
+                    "CHEM1821",
+                    "PHYS1121",
+                    "PHYS1131",
+                    "ENGG1811",
+                    "DESN1000",
+                    "MATH1131", 
+                    "MATH1141",
+                    "MATH1231",
+                    "MATH1241",
+                    "CEIC2000",
+                    "CEIC2001",
+                    "CEIC2002",
+                    "CEIC2005",
+                    "CEIC2007",
+                    "DESN2000",
+                    "DESN2000ceic",
+                    "MATH2019",
+                    "MATH2018",
+                    "MATH2089",
+                    "CEIC3000",
+                    "CEIC3001",
+                    "CEIC3004",
+                    "CEIC3005",
+                    "CEIC3006",
+                    "CEIC3007",
+                    "CEIC4000",
+                    "CEIC4954",
+                    "CEIC6004",
+                    "CEIC6711",
+                    "CEIC6712",
+                    "CEIC6714",
+                    "CEIC6789",
+                    "CEIC8102",
+                    "CEIC8104",
+                    "CEIC8204",
+                    "CEIC8330",
+                    "CEIC8341",
+                    "CHEM2041",
+                    "CHEN6701",
+                    "CHEN6703",
+                    "CHEN6706",
+                    "ELEC4445",
+                    "ENGG3001",
+                    "ENGG4103",
+                    "ENGG4111",
+                    "FOOD3010",
+                    "FOOD4450"
+                ]
+            }
+        ]
+    },
+    "shared-courses": {
+        "double-counted": [
+            "CHEM1811",
+            "CHEM1821",
+            "MATH1131",
+            "MATH1231"
+        ],
+        "over-double-count-limit": [
+            {
+                "placeholder": "CEICM1ee",
+                "from": [
+                    "PHYS1121",
+                    "ENGG1811",
+                    "DESN1000",
+                    "MATH2018",
+                    "MATH2019",
+                    "MATH2089"
+                ]
+            }
+        ]
+    }
+}
+
