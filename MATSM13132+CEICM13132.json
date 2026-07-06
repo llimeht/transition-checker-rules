@@ -3,7 +3,7 @@
     "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
     "status": "Under review",
     "career": "Undergraduate",
-    "program": {"id": "3132", "name": "Bachelor of Engineering (Honours)"},
+    "program": {"id": "3132", "name": "Bachelor of Engineering (Honours), Bachelor of Engineering Science"},
     "specialisations": [
         {"id": "MATSM1", "name": "Materials Science and Engineering"},
         {"id": "CEICM1", "name": "Chemical Engineering"}
