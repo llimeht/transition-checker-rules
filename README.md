@@ -4,7 +4,7 @@ This repository contains unofficial degree rules files for use with the
 [transition-checker](https://github.com/llimeht/transition-checker/) tooling.
 
 > **These files are entirely unofficial.** They are best-effort transcriptions of the
-> handbook rules and may contain accidental errors or omissions. 
+> handbook rules and may contain accidental errors or omissions.
 > They may also contain proposed tweaks to the official academic rules that are being considered
 > as part of the work to plan the flex-semester transition - do not over-interpret such inclusions.
 > They do not constitute academic
@@ -20,7 +20,7 @@ variant of a specialisation). File names follow the pattern:
   e.g. `CEICDH3707-2020-2025.json`
 
 The file format is documented in
-[FILE-FORMATS.md](https://github.com/llimeht/transition-checker/blob/main/FILE-FORMATS.md)
+[FILE-FORMATS.md](https://github.com/llimeht/transition-checker/blob/master/FILE-FORMATS.md)
 in the main repository.
 
 ## Usage
