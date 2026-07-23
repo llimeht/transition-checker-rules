@@ -7,6 +7,7 @@
     "specialisations": [
         {"id": "CEICKS", "name": "Chemical Engineering (with RPL)"}
     ],
+    "description": "48 UoC RPL",
     "school": "CEIC",
     "uoc": 48,
     "validity": {
@@ -26,9 +27,11 @@
         ],
         "ADK Core": [
             {
+                "placeholder": "CEICKSADKCoreProduct",
                 "or": ["CEIC6711", "CEIC8105"]
             },
             {
+                "placeholder": "CEICKSADKCoreProcess",
                 "or": ["CEIC8102", "CEIC8341", "CHEN6701", "CHEN6706", "FOOD8801"]
             }
         ],
