@@ -25,7 +25,7 @@
                 "or": ["PHYS1111", "PHYS1121", "PHYS1131"]
             },
             {
-                "or": ["MATH1131", "MATH1141", "MATH1031"]
+                "or": ["MATH1031", "MATH1131", "MATH1141"]
             },
             {
                 "or": ["MATH1041", "MATH1231", "MATH1241"]
@@ -38,9 +38,13 @@
             "CHEM2921",
             "FOOD2320",
             "MICR2011",
-            "PHSL2101",
-            "PHSL2201",
-            "PHCM2001"
+            "PHCM2001",
+            {
+                "or": ["PHSL2101", "PHSL2111"]
+            },
+            {
+                "or": ["PHSL2201", "PHSL2211"]
+            }
         ],
         "Level 3": [
             "FOOD3010",
