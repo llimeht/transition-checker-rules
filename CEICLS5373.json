@@ -1,0 +1,69 @@
+{
+    "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
+    "career": "Postgraduate",
+    "program": {"id": "5373", "name": "Graduate Diploma of Engineering Science"},
+    "specialisations": [
+        {"id": "CEICLS", "name": "Chemical Engineering"}
+    ],
+    "school": "CEIC",
+    "uoc": 72,
+    "validity": {
+        "from": "2024",
+        "to": "2029"
+    },
+    "required": {
+        "FDK Core": [
+            "CEIC3004",
+            "CEIC3005",
+            "CEIC3006"
+        ],
+        "DK Electives": [
+            {
+                "min": 4,
+                "placeholder": "CEICKSdke",
+                "from": [
+                    "CEIC6712",
+                    "CEIC6713",
+                    "CEIC6714",
+                    "CEIC8104",
+                    "CHEN6703",
+                    "FOOD8010",
+                    "GSOE9111"
+                ]
+            }
+        ],
+        "ETM Core": [
+            "CEIC8204"
+        ],
+        "ETM Electives": [
+            "CEIC4000"
+        ],
+        "ADK Core": [
+            {
+                "id": "ADKProduct",
+                "placeholder": "CEICKSADKCoreProduct",
+                "or": ["CEIC6711", "CEIC8105"]
+            }
+        ],
+        "ADK Electives": [
+            {
+                "min": 2,
+                "placeholder": "CEICKSadke",
+                "from": [
+                    "CEIC6711",
+                    "CEIC6789",
+                    "CEIC8102",
+                    "CEIC8105",
+                    "CEIC8341",
+                    "CHEN6701",
+                    "CHEN6706",
+                    "FOOD8450",
+                    "FOOD8801"
+                ]
+            }
+        ]
+    }
+}
+

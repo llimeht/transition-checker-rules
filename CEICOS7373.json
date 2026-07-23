@@ -1,0 +1,42 @@
+{
+    "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
+    "career": "Postgraduate",
+    "program": {"id": "7373", "name": "Graduate Certificate of Engineering Science"},
+    "specialisations": [
+        {"id": "CEICOS", "name": "Chemical Engineering"}
+    ],
+    "school": "CEIC",
+    "uoc": 48,
+    "validity": {
+        "from": "2024",
+        "to": "2029"
+    },
+    "required": {
+        "FDK Core": [
+            "CEIC3004",
+            "CEIC3005",
+            "CEIC3006"
+        ],
+        "DK Electives": [
+            {
+                "min": 4,
+                "placeholder": "CEICKSdke",
+                "from": [
+                    "CEIC6712",
+                    "CEIC6713",
+                    "CEIC6714",
+                    "CEIC8104",
+                    "CHEN6703",
+                    "FOOD8010",
+                    "GSOE9111"
+                ]
+            }
+        ],
+        "ETM Core": [
+            "CEIC8204"
+        ]
+    }
+}
+
