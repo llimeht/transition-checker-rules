@@ -1,0 +1,167 @@
+{
+    "schemaVersion": 2,
+    "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+    "status": "Under review",
+    "career": "Undergraduate",
+    "program": {"id": "3706", "name": "Bachelor of Engineering Science"},
+    "specialisations": [
+        {"id": "CEICM1", "name": "Chemical Engineering"}
+    ],
+    "school": "CEIC",
+    "uoc": 144,
+    "validity": {
+        "from": "2000",
+        "to": "2029"
+    },
+    "required": {
+        "Level 1": [
+            {
+                "min": 3,
+                "placeholder": "CEIC1xxx",
+                "from": [
+                    "CHEM1811",
+                    "CHEM1821",
+                    {
+                        "id": "PHYS1A",
+                        "or": ["PHYS1121", "PHYS1131"]
+                    },
+                    "ENGG1811",
+                    "DESN1000",
+                    {
+                        "id": "MATH1A",
+                        "or": ["MATH1131", "MATH1141"]
+                    },
+                    {
+                        "id": "MATH1B",
+                        "or": ["MATH1231", "MATH1241"]
+                    }
+                ]
+            }
+        ],
+        "Level 2": [
+            {
+                "min": 3,
+                "placeholder": "CEIC2xxx",
+                "from": [
+                    "CEIC2000",
+                    "CEIC2001",
+                    "CEIC2002",
+                    "CEIC2005",
+                    "CEIC2007",
+                    {
+                        "or": ["DESN2000", "DESN2000ceic"]
+                    },
+                    {
+                        "id": "MATH2018/2019",
+                        "or": ["MATH2019", "MATH2018"]
+                    },
+                    "MATH2089"
+                ]
+            }
+        ],
+        "Level 3/4 Prescribed Electives": [
+            {
+                "min": 4,
+                "placeholder": "CEIC3xxx",
+                "from": [
+                    "CEIC3000",
+                    "CEIC3001",
+                    "CEIC3004",
+                    "CEIC3005",
+                    "CEIC3006",
+                    "CEIC3007",
+                    "CEIC4000",
+                    "CEIC4954",
+                    "CEIC6004",
+                    "CEIC6711",
+                    "CEIC6712",
+                    "CEIC6714",
+                    "CEIC6789",
+                    "CEIC8102",
+                    "CEIC8104",
+                    "CEIC8204",
+                    "CEIC8330",
+                    "CEIC8341",
+                    "CHEM2041",
+                    "CHEN6701",
+                    "CHEN6703",
+                    "CHEN6706",
+                    "ELEC4445",
+                    "ENGG3001",
+                    "ENGG4103",
+                    "ENGG4111",
+                    "FOOD3010",
+                    "FOOD4450"
+                ]
+            }
+        ],
+        "Electives": [
+            {
+                "min": 6,
+                "placeholder": "CEICeeee",
+                "from": [
+                    "CHEM1811",
+                    "CHEM1821",
+                    "PHYS1121",
+                    "PHYS1131",
+                    "ENGG1811",
+                    "DESN1000",
+                    "MATH1131", 
+                    "MATH1141",
+                    "MATH1231",
+                    "MATH1241",
+                    "CEIC2000",
+                    "CEIC2001",
+                    "CEIC2002",
+                    "CEIC2005",
+                    "CEIC2007",
+                    "DESN2000",
+                    "DESN2000ceic",
+                    "MATH2019",
+                    "MATH2018",
+                    "MATH2089",
+                    "CEIC3000",
+                    "CEIC3001",
+                    "CEIC3004",
+                    "CEIC3005",
+                    "CEIC3006",
+                    "CEIC3007",
+                    "CEIC4000",
+                    "CEIC4954",
+                    "CEIC6004",
+                    "CEIC6711",
+                    "CEIC6712",
+                    "CEIC6714",
+                    "CEIC6789",
+                    "CEIC8102",
+                    "CEIC8104",
+                    "CEIC8204",
+                    "CEIC8330",
+                    "CEIC8341",
+                    "CHEM2041",
+                    "CHEN6701",
+                    "CHEN6703",
+                    "CHEN6706",
+                    "ELEC4445",
+                    "ENGG3001",
+                    "ENGG4103",
+                    "ENGG4111",
+                    "FOOD3010",
+                    "FOOD4450",
+                    "CEIC3xxx"
+                ]
+            }
+        ],
+        "Free Electives": [
+            "FREE1",
+            "FREE2",
+            "FREE3",
+            "FREE4",
+            "FREE5",
+            "FREE6",
+            "GenEd1",
+            "GenEd2"
+        ]
+    }
+}
+
