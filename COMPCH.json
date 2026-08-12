@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3779",
+    "name": "Bachelor of Advanced Computer Science (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "COMPCH",
+      "name": "Computer Science"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP1511",
+              "MATH1141",
+              "ELECTIVE",
+              "MATH1241",
+              "COMP1521",
+              "COMP1531",
+              "COMP2521",
+              "MATH1081",
+              "COMP2511",
+              "ELECTIVE",
+              "COME",
+              "GEC",
+              "COME",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "COMP3821",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "GEC",
+              "COMP3900",
+              "COME",
+              "COMP4920",
+              "COMP4961",
+              "ACOME",
+              "ACOME",
+              "COMP4962",
+              "ACOME",
+              "ACOME",
+              "COMP4963",
+              "ACOME"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "ELECTIVE",
+              "MATH1141",
+              "COMP1521",
+              "COMP1531",
+              "COMP2521",
+              "MATH1081",
+              "MATH1241",
+              "COMP2511",
+              "ELECTIVE",
+              "COME",
+              "GEC",
+              "COME",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "GEC",
+              "COMP4920",
+              "COME",
+              "ELECTIVE",
+              "COMP3900",
+              "COMP3821",
+              "COMP4940",
+              "ACOME",
+              "ACOME",
+              "ACOME",
+              "COMP4941",
+              "ACOME",
+              "ACOME"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1531",
+              "COMP2521",
+              "MATH1231",
+              "COMP1521",
+              "COMP2511",
+              "ELECTIVE",
+              "COME",
+              "GEC",
+              "COMP3121",
+              "COMP4920",
+              "ELECTIVE",
+              "GEC",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "ELECTIVE",
+              "COMP3900",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "COMP4940",
+              "COMP4XXX",
+              "COMP9XXX",
+              "ELECTIVE",
+              "COMP4941",
+              "COMP4XXX",
+              "COMP9XXX",
+              "COMP9XXX"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1141",
+              "COMP1521",
+              "COMP1531",
+              "MATH1241",
+              "COMP2521",
+              "ELECTIVE",
+              "COMP2511",
+              "COME",
+              "ELECTIVE",
+              "GEC",
+              "COMP3821",
+              "COMP4920",
+              "ELECTIVE",
+              "GEC",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "ELECTIVE",
+              "COMP3900",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "COMP4940",
+              "COMP4XXX",
+              "COMP9XXX",
+              "COMP9XXX",
+              "COMP4941",
+              "COMP4XXX",
+              "COMP9XXX"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

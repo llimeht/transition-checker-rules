@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "GMATDH",
+      "name": "Surveying"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 192,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Level 1": [
+      "DESN1000",
+      {
+        "id": "MATH1A",
+        "or": [
+          "MATH1131",
+          "MATH1141"
+        ]
+      },
+      {
+        "id": "PHYS1A",
+        "or": [
+          "PHYS1121",
+          "PHYS1131",
+          "PHYS1141"
+        ]
+      },
+      "GMAT1110",
+      "ENGG1811",
+      {
+        "id": "MATH1B",
+        "or": [
+          "MATH1231",
+          "MATH1241"
+        ]
+      },
+      "ENGG2500"
+    ],
+    "Level 2": [
+      "GMAT2500",
+      {
+        "id": "MATH2018/2019",
+        "or": [
+          "MATH2018",
+          "MATH2019"
+        ]
+      },
+      "GMAT2700",
+      "DESN2000",
+      {
+        "id": "CVEN2002/MATH2089",
+        "or": [
+          "CVEN2002",
+          "MATH2089"
+        ]
+      },
+      "GMAT2120",
+      "GMAT2550"
+    ],
+    "Level 3": [
+      "CVEN3101",
+      "GMAT3100",
+      "GMAT3150",
+      "CVEN3501",
+      "GMAT3220",
+      "GMAT3420",
+      "GMAT3500",
+      "GMAT3700"
+    ],
+    "Level 4": [
+      "CVEN4050",
+      "CVEN4051",
+      "GMAT4150"
+    ],
+    "Discipline Electives": [
+      {
+        "min": 3,
+        "placeholder": "GMATDH_DISCIPLINE_ELECTIVE",
+        "from": [
+          "AVIA2025",
+          "CVEN2101",
+          "CVEN3401",
+          "CVEN3501",
+          "CVEN4206",
+          "ENGG1400",
+          "ENGG3001",
+          "ENGG4060",
+          "ENGG4102",
+          "ENGG4103",
+          "GEOS3911",
+          "GMAT4220",
+          "PLAN7140"
+        ]
+      }
+    ],
+    "Free Electives": [
+      "Free1",
+      "Free2"
+    ],
+    "General Education": [
+      "GenEd1",
+      "GenEd2"
+    ]
+  }
+}

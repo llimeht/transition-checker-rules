@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "SOLAAH",
+      "name": "Photovoltaics and Solar Energy"
+    }
+  ],
+  "school": "SPREE",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Core and thesis": [
+      "DESN1000",
+      "SOLA1070",
+      "ELEC1111",
+      {
+        "id": "Mathematics 1A",
+        "or": [
+          "MATH1131",
+          "MATH1141"
+        ]
+      },
+      {
+        "id": "Mathematics 1B",
+        "or": [
+          "MATH1231",
+          "MATH1241",
+          "MATH1961"
+        ]
+      },
+      {
+        "id": "Physics 1A",
+        "or": [
+          "PHYS1121",
+          "PHYS1131"
+        ]
+      },
+      {
+        "id": "Physics 1B",
+        "or": [
+          "PHYS1221",
+          "PHYS1231"
+        ]
+      },
+      {
+        "id": "Computing",
+        "or": [
+          "ENGG1811",
+          "COMP1511",
+          "COMP1911"
+        ]
+      },
+      "DESN2000",
+      "MATH2089",
+      "SOLA2051",
+      "SOLA2060",
+      "SOLA2540",
+      {
+        "id": "Engineering Mathematics 2",
+        "or": [
+          "MATH2018",
+          "MATH2019"
+        ]
+      },
+      "SOLA3010",
+      "SOLA3020",
+      "SOLA3507",
+      "ELEC4122",
+      "SOLA4012",
+      "SOLA5057",
+      {
+        "id": "Thesis",
+        "or": [
+          {
+            "and": [
+              "SOLA4951",
+              "SOLA4952",
+              "SOLA4953"
+            ]
+          },
+          {
+            "and": [
+              "SOLA4910",
+              "SOLA4911"
+            ]
+          }
+        ]
+      }
+    ],
+    "Stream electives": [
+      "STRAND1",
+      "STRAND2",
+      "STRAND3",
+      "DISP1",
+      "DISP2",
+      "DISP3"
+    ],
+    "Program electives": [
+      "GENED1",
+      "GENED2",
+      "FREE1",
+      "FREE2"
+    ]
+  }
+}

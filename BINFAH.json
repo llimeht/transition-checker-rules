@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "BINFAH",
+      "name": "Bioinformatics Engineering"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "MATH1131",
+              "PHYS1111",
+              "COMP1511",
+              "MATH1081",
+              "MATH1231",
+              "BABS1201",
+              "COMP1521",
+              "DESN1000",
+              "COMP1531",
+              "COMP2521",
+              "CHEM1011",
+              "DESN2000",
+              "BABS2264",
+              "GEC",
+              "BINF2010",
+              "BIOC2201",
+              "COMP2041",
+              "BABS3121",
+              "COMP2511",
+              "COMP3121",
+              "BINF3010",
+              "MATH2801",
+              "BINF3020",
+              "COMP4951",
+              "COMP3311",
+              "ELECTIVE",
+              "COMP4952",
+              "SPE",
+              "ELECTIVE",
+              "GEC",
+              "COMP4953",
+              "COMP4920",
+              "SPE",
+              "ENGG4999"
+            ]
+          },
+          {
+            "and": [
+              "MATH1131",
+              "PHYS1111",
+              "COMP1511",
+              "MATH1081",
+              "MATH1231",
+              "BABS1201",
+              "COMP1521",
+              "DESN1000",
+              "COMP1531",
+              "COMP2521",
+              "CHEM1011",
+              "DESN2000",
+              "BABS2264",
+              "BINF2010",
+              "BIOC2201",
+              "COMP2511",
+              "BABS3121",
+              "COMP2041",
+              "COMP3121",
+              "BINF3010",
+              "MATH2801",
+              "BINF3020",
+              "COMP4920",
+              "SPE",
+              "COMP3311",
+              "COMP4930",
+              "ELECTIVE",
+              "GEC",
+              "COMP4931",
+              "SPE",
+              "ELECTIVE",
+              "GEC",
+              "ENGG4999"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1131",
+              "PHYS1111",
+              "BABS1201",
+              "DESN1000",
+              "MATH1231",
+              "COMP2521",
+              "MATH1081",
+              "BINF2010",
+              "COMP1521",
+              "COMP2041",
+              "CHEM1011",
+              "BIOC2201",
+              "COMP1531",
+              "COMP2511",
+              "COMP3121",
+              "BINF3010",
+              "MATH2801",
+              "DESN2000",
+              "BINF3020",
+              "BABS2264",
+              "COMP4920",
+              "BABS3121",
+              "COMP3311",
+              "SPE",
+              "GEC",
+              "COMP4930",
+              "SPE",
+              "ELECTIVE",
+              "COMP4931",
+              "SPE",
+              "GEC",
+              "ENGG4999"
+            ]
+          },
+          {
+            "and": [
+              "MATH1131",
+              "PHYS1111",
+              "COMP1511",
+              "MATH1081",
+              "MATH1231",
+              "BABS1201",
+              "COMP1521",
+              "DESN1000",
+              "COMP1531",
+              "COMP2521",
+              "CHEM1011",
+              "COMP2041",
+              "DESN2000",
+              "BINF2010",
+              "BIOC2201",
+              "COMP2511",
+              "BABS3121",
+              "COMP4920",
+              "COMP3121",
+              "BINF3010",
+              "MATH2801",
+              "BINF3020",
+              "COMP3311",
+              "SPE",
+              "COMP4930",
+              "ELECTIVE",
+              "SPE",
+              "GEC",
+              "COMP4931",
+              "SPE",
+              "ELECTIVE",
+              "GEC",
+              "ENGG4999"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

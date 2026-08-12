@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ENGGCS",
+      "name": "Sustainable Systems"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 96,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      {
+        "min": 2,
+        "placeholder": "ENGGCS_FC",
+        "from": [
+          "ARTS1240",
+          "ARTS2240",
+          "BIOS1301",
+          "CEIC4000"
+        ]
+      }
+    ],
+    "Disciplinary Core": [
+      "GSOE9510"
+    ],
+    "Advanced Disciplinary Core": [
+      {
+        "id": "CVEN9888/GSOE9740",
+        "or": [
+          "CVEN9888",
+          "GSOE9740"
+        ]
+      },
+      "GSOE9340",
+      "IEST5022"
+    ],
+    "Research Skills": [
+      {
+        "id": "ResearchSkills",
+        "or": [
+          "GSOE9010",
+          "GSOE9011"
+        ]
+      }
+    ],
+    "Masters Project": [
+      {
+        "id": "Project",
+        "or": [
+          {
+            "and": [
+              "CVEN9050",
+              "CVEN9051"
+            ]
+          },
+          {
+            "and": [
+              "CVEN9451",
+              "CVEN9452",
+              "CVEN9453"
+            ]
+          }
+        ]
+      }
+    ],
+    "Engineering Technical Management": [
+      {
+        "min": 1,
+        "placeholder": "ENGGCS_ETM",
+        "from": [
+          "ACCT5961",
+          "AGSM9119",
+          "ATSI3003",
+          "COMM5709",
+          "CVEN9701",
+          "CVEN9710",
+          "CVEN9731",
+          "DDES9014",
+          "ELEC9711",
+          "ELEC9714",
+          "ELEC9715",
+          "GEOS9016",
+          "GMAT9205",
+          "GSOE9142",
+          "GSOE9712",
+          "GSOE9820",
+          "GSOE9830",
+          "GSOE9997",
+          "IEST5005",
+          "IEST5007",
+          "IEST5008",
+          "IEST5021",
+          "IEST6001",
+          "IEST6908",
+          "IEST6910",
+          "IEST6911",
+          "IEST6912",
+          "IEST7200",
+          "IEST7500",
+          "IEST7600",
+          "MINE8780",
+          "SUSD0001",
+          "SUSD0003",
+          "SUSD0009",
+          "SUSD0010",
+          "SUSD0016"
+        ]
+      }
+    ],
+    "Disciplinary Knowledge Electives": [
+      {
+        "min": 5,
+        "placeholder": "ENGGCS_DKE",
+        "from": [
+          "CEIC4000",
+          "CVEN4104",
+          "CVEN4504",
+          "CVEN9855",
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9886",
+          "CVEN9892",
+          "CVEN9898",
+          "GEOS9011",
+          "GMAT9600",
+          "GSOE9017",
+          "GSOE9111",
+          "IEST7001",
+          "IEST7200",
+          "IEST7600",
+          "SOLA3010",
+          "SOLA5050",
+          "SOLA5057",
+          "SUSD0002"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Electives": [
+      {
+        "min": 1,
+        "placeholder": "ENGGCS_ADE",
+        "from": [
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9892",
+          "GEOS9011",
+          "GSOE9017",
+          "GSOE9111",
+          "SUSD0002"
+        ]
+      }
+    ]
+  }
+}

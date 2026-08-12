@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8621",
+    "name": "Master of Engineering"
+  },
+  "specialisations": [
+    {
+      "id": "MECHBS",
+      "name": "Mechanical Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      {
+        "id": "MappedAwardRequirements",
+        "or": [
+          {
+            "and": [
+              "ENGG4999",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "MECH4100",
+              "MMAN9001",
+              "MMAN9002"
+            ]
+          },
+          {
+            "and": [
+              "ENGG4999",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "MECH4100",
+              "MMAN9451",
+              "MMAN9452",
+              "MMAN9453"
+            ]
+          },
+          {
+            "and": [
+              "ENGG4999",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "MECH4100",
+              "MMAN9001",
+              "MMAN9002"
+            ]
+          },
+          {
+            "and": [
+              "ENGG4999",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "MECH4100",
+              "MMAN9451",
+              "MMAN9452",
+              "MMAN9453"
+            ]
+          },
+          {
+            "and": [
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 4 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "LEVEL 5 ELECTIVE",
+              "MECH4100",
+              "MMAN9001",
+              "MMAN9002"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7546",
+    "name": "Graduate Certificate in Information Technology"
+  },
+  "specialisations": [],
+  "school": "CSE",
+  "uoc": 48,
+  "validity": {
+    "from": "2027",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "and": [
+          "COMP9020",
+          "COMP9021",
+          "COMP9024",
+          "COMP9820",
+          "COMP9920",
+          "Elective",
+          "Elective",
+          "Elective"
+        ],
+        "id": "MappedCurriculumVariant"
+      }
+    ]
+  }
+}

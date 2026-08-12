@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7373",
+    "name": "Graduate Certificate in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ENGGES",
+      "name": "Sustainable Systems"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 48,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      {
+        "min": 2,
+        "placeholder": "ENGGES_FC",
+        "from": [
+          "ARTS1240",
+          "ARTS2240",
+          "BIOS1301",
+          "CEIC4000"
+        ]
+      }
+    ],
+    "Disciplinary Core": [
+      "GSOE9510"
+    ],
+    "Disciplinary Knowledge Electives": [
+      {
+        "min": 5,
+        "placeholder": "ENGGES_DKE",
+        "from": [
+          "CEIC4000",
+          "CVEN4104",
+          "CVEN4504",
+          "CVEN9855",
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9886",
+          "CVEN9888",
+          "CVEN9892",
+          "CVEN9898",
+          "GEOS9011",
+          "GMAT9600",
+          "GSOE9017",
+          "GSOE9111",
+          "GSOE9340",
+          "IEST5022",
+          "IEST7001",
+          "IEST7200",
+          "IEST7600",
+          "SOLA3010",
+          "SOLA5050",
+          "SOLA5057",
+          "SUSD0002"
+        ]
+      }
+    ]
+  }
+}

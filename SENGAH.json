@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "SENGAH",
+      "name": "Software Engineering"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1521",
+              "COMP1531",
+              "MATH1231",
+              "DESN1000",
+              "GEC",
+              "SENG2021",
+              "COMP2521",
+              "ELECTIVE",
+              "COMP2041",
+              "DESN2000",
+              "MATH2400/2859",
+              "SENG2011",
+              "COMP2511",
+              "SENG3011",
+              "COMP3311",
+              "COMP3142",
+              "COMP3331",
+              "SPE",
+              "COMP4920",
+              "ELECTIVE",
+              "GEC",
+              "COMP4930",
+              "SPE",
+              "SPE",
+              "SPE",
+              "COMP4931",
+              "SPE",
+              "SPE",
+              "ELECTIVE"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1531",
+              "MATH1231",
+              "GEC",
+              "COMP1521",
+              "DESN1000",
+              "SENG2021",
+              "COMP2041",
+              "COMP2521",
+              "GEC",
+              "COMP2111",
+              "COMP2511",
+              "DESN2000",
+              "MATH2400/2859",
+              "SENG3011",
+              "COMP3142",
+              "COMP4920",
+              "SPE",
+              "COMP3311",
+              "COMP3331",
+              "SPE",
+              "ELECTIVE",
+              "COMP4931",
+              "SPE",
+              "SPE",
+              "ELECTIVE",
+              "COMP4932",
+              "SPE",
+              "SPE",
+              "ELECTIVE"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1521",
+              "COMP1531",
+              "DESN1000",
+              "SENG2021",
+              "COMP2041",
+              "COMP2521",
+              "MATH1231",
+              "COMP2111",
+              "COMP2511",
+              "DESN2000",
+              "MATH2400/2859",
+              "SENG3011",
+              "COMP3142",
+              "COMP3311",
+              "ELECTIVE",
+              "COMP3331",
+              "COMP4920",
+              "SPE",
+              "GEC",
+              "SPE",
+              "SPE",
+              "ELECTIVE",
+              "GEC",
+              "COMP4930",
+              "SPE",
+              "ELECTIVE",
+              "COMP4931",
+              "SPE",
+              "SPE"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1521",
+              "COMP1531",
+              "COMP2521",
+              "MATH1231",
+              "COMP2041",
+              "COMP2111",
+              "COMP2511",
+              "DESN1000",
+              "SENG2021",
+              "COMP3311",
+              "COMP4920",
+              "GEC",
+              "COMP3331",
+              "DESN2000",
+              "MATH2400/2849",
+              "ELECTIVE",
+              "SENG3011",
+              "COMP3142",
+              "ELECTIVE",
+              "GEC",
+              "COMP4930",
+              "SPE",
+              "SPE",
+              "ELECTIVE",
+              "COMP4931",
+              "SPE",
+              "SPE",
+              "SPE",
+              "SPE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

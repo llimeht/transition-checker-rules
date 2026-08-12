@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "SOLABH",
+      "name": "Renewable Energy Engineering"
+    }
+  ],
+  "school": "SPREE",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Core and thesis": [
+      "DESN1000",
+      "SOLA1070",
+      "ELEC1111",
+      {
+        "id": "Mathematics 1A",
+        "or": [
+          "MATH1131",
+          "MATH1141"
+        ]
+      },
+      {
+        "id": "Mathematics 1B",
+        "or": [
+          "MATH1231",
+          "MATH1241",
+          "MATH1961"
+        ]
+      },
+      {
+        "id": "Physics 1A",
+        "or": [
+          "PHYS1121",
+          "PHYS1131"
+        ]
+      },
+      {
+        "id": "Physics 1B",
+        "or": [
+          "PHYS1221",
+          "PHYS1231"
+        ]
+      },
+      {
+        "id": "Computing",
+        "or": [
+          "ENGG1811",
+          "COMP1511",
+          "COMP1911"
+        ]
+      },
+      "DESN2000",
+      "MATH2089",
+      "MMAN2700",
+      "SOLA2051",
+      "SOLA2540",
+      "SOLA2060",
+      {
+        "id": "Engineering Mathematics 2",
+        "or": [
+          "MATH2018",
+          "MATH2019"
+        ]
+      },
+      "SOLA5053",
+      "SOLA5057",
+      "SOLA5050",
+      "ELEC2911",
+      "ELEC4122",
+      "SOLA4012",
+      {
+        "id": "Thesis",
+        "or": [
+          {
+            "and": [
+              "SOLA4951",
+              "SOLA4952",
+              "SOLA4953"
+            ]
+          },
+          {
+            "and": [
+              "SOLA4910",
+              "SOLA4911"
+            ]
+          }
+        ]
+      }
+    ],
+    "Stream electives": [
+      {
+        "id": "30 UoC stream electives",
+        "min": 5,
+        "from": [
+          "DISP1",
+          "DISP2",
+          "DISP3",
+          "STRAND1",
+          "STRAND2",
+          "STRAND3",
+          "ELEC2134",
+          "ELEC3115",
+          "ELEC3105",
+          "MECH3610",
+          "SOLA5056",
+          "ENGG4102",
+          "ENGG2500",
+          "SOLA3010",
+          "ELEC2115",
+          "ENGG3001"
+        ]
+      }
+    ],
+    "Program electives": [
+      {
+        "id": "General Education 1",
+        "or": [
+          "GENED1",
+          "ARTS2755"
+        ]
+      },
+      {
+        "id": "General Education 2",
+        "or": [
+          "GENED2",
+          "ARTS2755"
+        ]
+      },
+      "FREE1",
+      "FREE2"
+    ]
+  }
+}

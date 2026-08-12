@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "CVENJ1",
+      "name": "Civil Engineering"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Level 1 Courses": [
+      {
+        "min": 3,
+        "placeholder": "CVENJ1_L1",
+        "from": [
+          "DESN1000",
+          "ENGG1300",
+          "ENGG1811",
+          "MATS1101",
+          "MATH1131",
+          "MATH1141",
+          "MATH1231",
+          "MATH1241",
+          "PHYS1121",
+          "PHYS1131"
+        ]
+      }
+    ],
+    "Level 2 Courses": [
+      {
+        "min": 3,
+        "placeholder": "CVENJ1_L2",
+        "from": [
+          "CVEN2002",
+          "CVEN2101",
+          "CVEN2303",
+          "DESN2000",
+          "ENGG2400",
+          "ENGG2500",
+          "MATH2018",
+          "MATH2019",
+          "MATH2089"
+        ]
+      }
+    ],
+    "Level 3 and 4 Prescribed Electives": [
+      {
+        "min": 4,
+        "placeholder": "CVENJ1_LEVEL3_AND_4_ELECTIVES",
+        "from": [
+          "CODE2170",
+          "CVEN3101",
+          "CVEN3202",
+          "CVEN3203",
+          "CVEN3303",
+          "CVEN3304",
+          "CVEN3401",
+          "CVEN3501",
+          "CVEN3502",
+          "CVEN3701",
+          "CVEN4102",
+          "CVEN4103",
+          "CVEN4104",
+          "CVEN4106",
+          "CVEN4201",
+          "CVEN4202",
+          "CVEN4204",
+          "CVEN4206",
+          "CVEN4301",
+          "CVEN4308",
+          "CVEN4309",
+          "CVEN4402",
+          "CVEN4404",
+          "CVEN4405",
+          "CVEN4503",
+          "CVEN4504",
+          "CVEN4507",
+          "CVEN4701",
+          "CVEN4703",
+          "CVEN4705",
+          "CVEN4706",
+          "CVEN4800",
+          "CVEN9405",
+          "CVEN9415",
+          "CVEN9612",
+          "CVEN9620",
+          "CVEN9640",
+          "CVEN9806",
+          "CVEN9809",
+          "CVEN9818",
+          "CVEN9820",
+          "CVEN9822",
+          "CVEN9824",
+          "CVEN9826",
+          "CVEN9840",
+          "CVEN9881",
+          "ENGG1400",
+          "ENGG3001",
+          "ENGG3741",
+          "ENGG4060",
+          "ENGG4102",
+          "ENGG4103",
+          "GMAT1110",
+          "GMAT3220",
+          "GMAT9600",
+          "GMAT9606"
+        ]
+      }
+    ],
+    "Free Electives": [
+      "Free1",
+      "Free2",
+      "Free3",
+      "Free4",
+      "Free5",
+      "Free6"
+    ],
+    "General Education": [
+      "GenEd1",
+      "GenEd2"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8543",
+    "name": "Master of Information Technology"
+  },
+  "specialisations": [
+    {
+      "id": "COMPLS",
+      "name": "Artificial Intelligence"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9311",
+              "COMP9331",
+              "COMP9820",
+              "COMP9414",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP"
+            ]
+          },
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9414",
+              "COMP9331",
+              "COMP9820",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "RCP"
+            ]
+          },
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9311",
+              "COMP9414",
+              "COMP9820",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "RCP"
+            ]
+          },
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9311",
+              "COMP9331",
+              "COMP9820",
+              "AIC",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE"
+            ]
+          },
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9820",
+              "COMP9920",
+              "COMP9414",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "MECHE1",
+      "name": "Mechanical and Manufacturing Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      {
+        "id": "MappedAwardRequirements",
+        "or": [
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "DISCIPLINE ELECTIVE",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4150",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MMAN1130",
+              "MMAN2300",
+              "PHYS1121"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4150",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MMAN1130",
+              "MMAN2300",
+              "PHYS1121"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4150",
+              "MANF4430",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MMAN1130",
+              "MMAN2300",
+              "PHYS1121"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4150",
+              "MANF4611",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MMAN1130",
+              "MMAN2300",
+              "PHYS1121"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4430",
+              "MANF4611",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MMAN1130",
+              "MMAN2300",
+              "PHYS1121"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "GENED1",
+              "GENED2",
+              "MANF4100",
+              "MANF4150",
+              "MANF4430",
+              "MANF4611",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MMAN1130",
+              "MMAN2300",
+              "PHYS1121"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE1",
+              "FREE2",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4150",
+              "MANF4430",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MMAN1130",
+              "MMAN2300",
+              "PHYS1121"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

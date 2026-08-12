@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8660",
+    "name": "Master of Biomedical Engineering"
+  },
+  "specialisations": [
+    {
+      "id": "BIOMDS",
+      "name": "Biomedical Engineering (Dual Mode)"
+    }
+  ],
+  "school": "BIOM",
+  "uoc": 72,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Core Courses": [
+      "PHSL2121",
+      "BIOM9332",
+      "BIOM9410"
+    ],
+    "Project": [
+      {
+        "or": [
+          {
+            "and": [
+              "BIOM4001",
+              "BIOM4002"
+            ]
+          },
+          {
+            "and": [
+              "BIOM4951",
+              "BIOM4952",
+              "BIOM4953"
+            ]
+          }
+        ]
+      }
+    ],
+    "Biological Sciences": [
+      {
+        "id": "Biological Science elective",
+        "min": 1,
+        "placeholder": "BSC1",
+        "from": [
+          "PHSL2221",
+          "ANAT2511",
+          "BABS1201"
+        ]
+      }
+    ],
+    "Biomedical Engineering Courses": [
+      {
+        "id": "Biomedical Engineering elective slot 1",
+        "min": 1,
+        "placeholder": "BEC1",
+        "from": [
+          "BIOM9333",
+          "BIOM9640",
+          "BIOM9621",
+          "BIOM9310",
+          "BIOM9660",
+          "BIOM9910",
+          "BIOM9311",
+          "BIOM9020",
+          "BIOM9610",
+          "BIOM9541",
+          "BIOM9551",
+          "BIOM9450",
+          "BIOM9701",
+          "BIOM9561",
+          "BIOM9914",
+          "BIOM9711",
+          "BIOM9650",
+          "GSOE9712",
+          "BIOM9811",
+          "BIOM9027",
+          "BIOM9920",
+          "BIOM9021"
+        ]
+      },
+      {
+        "id": "Biomedical Engineering elective slot 2",
+        "min": 1,
+        "placeholder": "BEC2",
+        "from": [
+          "BIOM9333",
+          "BIOM9640",
+          "BIOM9621",
+          "BIOM9310",
+          "BIOM9660",
+          "BIOM9910",
+          "BIOM9311",
+          "BIOM9020",
+          "BIOM9610",
+          "BIOM9541",
+          "BIOM9551",
+          "BIOM9450",
+          "BIOM9701",
+          "BIOM9561",
+          "BIOM9914",
+          "BIOM9711",
+          "BIOM9650",
+          "GSOE9712",
+          "BIOM9811",
+          "BIOM9027",
+          "BIOM9920",
+          "BIOM9021"
+        ]
+      },
+      {
+        "id": "Biomedical Engineering elective slot 3",
+        "min": 1,
+        "placeholder": "BEC3",
+        "from": [
+          "BIOM9333",
+          "BIOM9640",
+          "BIOM9621",
+          "BIOM9310",
+          "BIOM9660",
+          "BIOM9910",
+          "BIOM9311",
+          "BIOM9020",
+          "BIOM9610",
+          "BIOM9541",
+          "BIOM9551",
+          "BIOM9450",
+          "BIOM9701",
+          "BIOM9561",
+          "BIOM9914",
+          "BIOM9711",
+          "BIOM9650",
+          "GSOE9712",
+          "BIOM9811",
+          "BIOM9027",
+          "BIOM9920",
+          "BIOM9021"
+        ]
+      },
+      {
+        "id": "Biomedical Engineering elective slot 4",
+        "min": 1,
+        "placeholder": "BEC4",
+        "from": [
+          "BIOM9333",
+          "BIOM9640",
+          "BIOM9621",
+          "BIOM9310",
+          "BIOM9660",
+          "BIOM9910",
+          "BIOM9311",
+          "BIOM9020",
+          "BIOM9610",
+          "BIOM9541",
+          "BIOM9551",
+          "BIOM9450",
+          "BIOM9701",
+          "BIOM9561",
+          "BIOM9914",
+          "BIOM9711",
+          "BIOM9650",
+          "GSOE9712",
+          "BIOM9811",
+          "BIOM9027",
+          "BIOM9920",
+          "BIOM9021"
+        ]
+      },
+      {
+        "id": "Biomedical Engineering elective slot 5",
+        "min": 1,
+        "placeholder": "BEC5",
+        "from": [
+          "BIOM9333",
+          "BIOM9640",
+          "BIOM9621",
+          "BIOM9310",
+          "BIOM9660",
+          "BIOM9910",
+          "BIOM9311",
+          "BIOM9020",
+          "BIOM9610",
+          "BIOM9541",
+          "BIOM9551",
+          "BIOM9450",
+          "BIOM9701",
+          "BIOM9561",
+          "BIOM9914",
+          "BIOM9711",
+          "BIOM9650",
+          "GSOE9712",
+          "BIOM9811",
+          "BIOM9027",
+          "BIOM9920",
+          "BIOM9021"
+        ]
+      },
+      {
+        "id": "Biomedical Engineering elective slot 6",
+        "min": 1,
+        "placeholder": "BEC6",
+        "from": [
+          "BIOM9333",
+          "BIOM9640",
+          "BIOM9621",
+          "BIOM9310",
+          "BIOM9660",
+          "BIOM9910",
+          "BIOM9311",
+          "BIOM9020",
+          "BIOM9610",
+          "BIOM9541",
+          "BIOM9551",
+          "BIOM9450",
+          "BIOM9701",
+          "BIOM9561",
+          "BIOM9914",
+          "BIOM9711",
+          "BIOM9650",
+          "GSOE9712",
+          "BIOM9811",
+          "BIOM9027",
+          "BIOM9920",
+          "BIOM9021"
+        ]
+      }
+    ]
+  }
+}

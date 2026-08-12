@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "COMPF1",
+      "name": "Computer Engineering"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "MATH1081",
+              "DESN1000",
+              "COMP1511",
+              "PHYS1121",
+              "MATH1131",
+              "MATH1231",
+              "ELEC1111",
+              "PHYS1221",
+              "COMP1521",
+              "COMP1531",
+              "ELEC2134",
+              "DESN2000",
+              "MATH2099",
+              "ELEC2133",
+              "COMP2521",
+              "ELECTIVE",
+              "COMP2511",
+              "COMP3222",
+              "SPE",
+              "ELECTIVE",
+              "COMP3211",
+              "SPE",
+              "COMP3601",
+              "COMP3231"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1131",
+              "PHYS1121",
+              "DESN1000",
+              "COMP1521",
+              "ELEC1111",
+              "MATH1231",
+              "PHYS1221",
+              "COMP1531",
+              "COMP2521",
+              "DESN2000",
+              "COMP2511",
+              "ELEC2134",
+              "COMP3222",
+              "MATH1081",
+              "GEC",
+              "COMP3231",
+              "MATH2099",
+              "ELEC2133",
+              "COMP3601",
+              "SPE",
+              "ELECTIVE",
+              "COMP4920",
+              "SPE"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "COMP1511",
+              "ELEC1111",
+              "COMP1521",
+              "PHYS1121",
+              "MATH1131",
+              "COMP1531",
+              "MATH1081",
+              "PHYS1221",
+              "MATH1231",
+              "COMP2521",
+              "ELEC2134",
+              "COMP3222",
+              "DESN2000",
+              "ELECTIVE",
+              "ELEC2133",
+              "COMP3211",
+              "COMP2511",
+              "COMP3601",
+              "SPE",
+              "SPE",
+              "GEC",
+              "COMP3231",
+              "MATH2099"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "COMP1511",
+              "ELEC1111",
+              "COMP1521",
+              "PHYS1121",
+              "MATH1131",
+              "MATH1081",
+              "COMP1531",
+              "PHYS1221",
+              "MATH1231",
+              "COMP2521",
+              "ELEC2134",
+              "COMP3222",
+              "DESN2000",
+              "ELEC2133",
+              "COMP3211",
+              "COMP2511",
+              "COMP3601",
+              "ELECTIVE",
+              "SPE",
+              "SPE",
+              "SPE",
+              "COMP3231",
+              "MATH2099"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

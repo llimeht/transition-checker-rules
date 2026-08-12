@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8543",
+    "name": "Master of Information Technology"
+  },
+  "specialisations": [
+    {
+      "id": "COMPAT",
+      "name": "Software Engineering"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "and": [
+          "COMP9020",
+          "COMP9021",
+          "COMP9024",
+          "COMP9820",
+          "COMP9920",
+          "COMP9044",
+          "ELECTIVE",
+          "ELECTIVE",
+          "RCP",
+          "ELECTIVE",
+          "ELECTIVE",
+          "ELECTIVE",
+          "RCP",
+          "RCP",
+          "ELECTIVE",
+          "ELECTIVE"
+        ]
+      }
+    ]
+  }
+}

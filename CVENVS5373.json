@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "CVENVS",
+      "name": "Water, Wastewater and Waste Engineering"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 72,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      "CVEN9625"
+    ],
+    "Advanced Disciplinary Core": [
+      "CVEN9886",
+      "CVEN9887"
+    ],
+    "Disciplinary Knowledge Electives": [
+      {
+        "min": 5,
+        "placeholder": "CVENVS_DKE",
+        "from": [
+          "CVEN4206",
+          "CVEN4207",
+          "CVEN4503",
+          "CVEN4504",
+          "CVEN4507",
+          "CVEN4703",
+          "CVEN4705",
+          "CVEN4706",
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422",
+          "CVEN9510",
+          "CVEN9511",
+          "CVEN9512",
+          "CVEN9513",
+          "CVEN9521",
+          "CVEN9522",
+          "CVEN9524",
+          "CVEN9526",
+          "CVEN9531",
+          "CVEN9611",
+          "CVEN9612",
+          "CVEN9620",
+          "CVEN9630",
+          "CVEN9640",
+          "CVEN9701",
+          "CVEN9702",
+          "CVEN9710",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9741",
+          "CVEN9742",
+          "CVEN9743",
+          "CVEN9744",
+          "CVEN9802",
+          "CVEN9806",
+          "CVEN9809",
+          "CVEN9818",
+          "CVEN9820",
+          "CVEN9822",
+          "CVEN9824",
+          "CVEN9826",
+          "CVEN9840",
+          "CVEN9855",
+          "CVEN9856",
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9888",
+          "CVEN9892",
+          "GMAT9205",
+          "GMAT9600",
+          "GMAT9606"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Courses": [
+      {
+        "min": 2,
+        "placeholder": "CVENVS_ADCOURSES",
+        "from": [
+          "CVEN9855",
+          "CVEN9856",
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Knowledge Electives": [
+      {
+        "min": 2,
+        "placeholder": "CVENVS_ADKE",
+        "from": [
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422",
+          "CVEN9510",
+          "CVEN9511",
+          "CVEN9512",
+          "CVEN9513",
+          "CVEN9521",
+          "CVEN9522",
+          "CVEN9524",
+          "CVEN9526",
+          "CVEN9531",
+          "CVEN9611",
+          "CVEN9612",
+          "CVEN9620",
+          "CVEN9630",
+          "CVEN9640",
+          "CVEN9701",
+          "CVEN9702",
+          "CVEN9710",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9741",
+          "CVEN9742",
+          "CVEN9743",
+          "CVEN9744",
+          "CVEN9802",
+          "CVEN9806",
+          "CVEN9809",
+          "CVEN9818",
+          "CVEN9820",
+          "CVEN9822",
+          "CVEN9824",
+          "CVEN9826",
+          "CVEN9840",
+          "CVEN9855",
+          "CVEN9856",
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9888",
+          "CVEN9892",
+          "GMAT9205",
+          "GMAT9600",
+          "GMAT9606"
+        ]
+      }
+    ]
+  }
+}

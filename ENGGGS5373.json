@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ENGGGS",
+      "name": "Nuclear Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 72,
+  "validity": {
+    "from": "2026",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+      "ENGG9741",
+      "ENGG9742",
+      "ENGG9743",
+      "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+      "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+      "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+      "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+      "FOUNDATIONAL CORE",
+      "FOUNDATIONAL CORE",
+      "FOUNDATIONAL CORE",
+      "FOUNDATIONAL CORE"
+    ]
+  }
+}

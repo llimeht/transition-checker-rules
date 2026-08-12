@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "MINEAH",
+      "name": "Mining Engineering"
+    }
+  ],
+  "school": "MERE",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Level 1 and Common Engineering Core": [
+      "DESN1000",
+      "ENGG1300",
+      "ENGG1811",
+      "GEOS1111",
+      "MATH1131",
+      "MATH1231",
+      "PHYS1121"
+    ],
+    "Level 2": [
+      "CEIC2001",
+      "DESN2000",
+      "ENGG2400",
+      "MATH2089",
+      {
+        "id": "EngineeringMathematics2",
+        "or": [
+          "MATH2018",
+          "MATH2019"
+        ]
+      },
+      "MERE2810",
+      "MINE2820"
+    ],
+    "Mining Engineering Core": [
+      "MINE3220",
+      "MINE3230",
+      "MINE3310",
+      "MINE3430",
+      "MINE3510",
+      "MINE3630",
+      "MINE3910",
+      "MINE4250",
+      "MINE4310",
+      "MINE4710"
+    ],
+    "Engineering Thesis": [
+      {
+        "id": "Thesis",
+        "or": [
+          {
+            "and": [
+              "MERE_TA",
+              "MERE_TB"
+            ]
+          },
+          {
+            "and": [
+              "MERE4951",
+              "MERE4952",
+              "MERE4953"
+            ]
+          }
+        ]
+      }
+    ],
+    "Disciplinary Electives": [
+      "MINE_ELEC1",
+      "MINE_ELEC2"
+    ],
+    "Program Electives and General Education": [
+      "FREE1",
+      "FREE2",
+      "GENED1",
+      "GENED2"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "CVENHS",
+      "name": "Transport Engineering"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 96,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      "CVEN3401"
+    ],
+    "Research Skills": [
+      {
+        "id": "ResearchSkills",
+        "or": [
+          "GSOE9010",
+          "GSOE9011"
+        ]
+      }
+    ],
+    "Masters Project": [
+      {
+        "id": "Project",
+        "or": [
+          {
+            "and": [
+              "CVEN9050",
+              "CVEN9051"
+            ]
+          },
+          {
+            "and": [
+              "CVEN9451",
+              "CVEN9452",
+              "CVEN9453"
+            ]
+          }
+        ]
+      }
+    ],
+    "Engineering Technical Management": [
+      {
+        "min": 1,
+        "placeholder": "CVENHS_ETM",
+        "from": [
+          "CEIC8204",
+          "COMP9021",
+          "CVEN9701",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9888",
+          "CVEN9892",
+          "GSOE9017",
+          "GSOE9210",
+          "GSOE9340",
+          "GSOE9360",
+          "GSOE9445",
+          "GSOE9510",
+          "GSOE9712",
+          "GSOE9810",
+          "GSOE9820",
+          "GSOE9830",
+          "GSOE9997",
+          "MANF6860",
+          "MANF9400",
+          "MANF9472",
+          "SOLA9103"
+        ]
+      }
+    ],
+    "Disciplinary Knowledge Electives": [
+      {
+        "min": 5,
+        "placeholder": "CVENHS_DKE",
+        "from": [
+          "AVIA5004",
+          "AVIA5008",
+          "AVIA5030",
+          "AVIA5040",
+          "CVEN4103",
+          "CVEN4104",
+          "CVEN4201",
+          "CVEN4206",
+          "CVEN4402",
+          "CVEN4404",
+          "CVEN4405",
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422",
+          "CVEN9701",
+          "CVEN9702",
+          "CVEN9710",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9855",
+          "CVEN9885",
+          "CVEN9886",
+          "CVEN9887",
+          "CVEN9888",
+          "CVEN9892",
+          "CVEN9901",
+          "COMP9021",
+          "COMP9024",
+          "GEOS9016",
+          "GMAT9205",
+          "GMAT9600",
+          "GMAT9606",
+          "MATH5165",
+          "MATH5855"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Core": [
+      {
+        "min": 4,
+        "placeholder": "CVENHS_ADC",
+        "from": [
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Knowledge Electives": [
+      {
+        "min": 2,
+        "placeholder": "CVENHS_ADKE",
+        "from": [
+          "AVIA5040",
+          "COMP9021",
+          "COMP9024",
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422",
+          "CVEN9510",
+          "CVEN9526",
+          "CVEN9701",
+          "CVEN9702",
+          "CVEN9710",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9855",
+          "CVEN9885",
+          "CVEN9886",
+          "CVEN9887",
+          "CVEN9888",
+          "CVEN9892",
+          "CVEN9901",
+          "GEOS9016",
+          "GMAT9205",
+          "GMAT9600",
+          "GMAT9606"
+        ]
+      }
+    ]
+  }
+}

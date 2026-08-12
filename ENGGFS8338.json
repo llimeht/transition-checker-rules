@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ENGGFS",
+      "name": "Nuclear Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 96,
+  "validity": {
+    "from": "2026",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      {
+        "id": "MappedAwardRequirements",
+        "or": [
+          {
+            "and": [
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ENGG9741",
+              "ENGG9742",
+              "ENGG9743",
+              "ENGG9744",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "GSOE9010",
+              "MMAN9001",
+              "MMAN9002"
+            ]
+          },
+          {
+            "and": [
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ENGG9741",
+              "ENGG9742",
+              "ENGG9743",
+              "ENGG9744",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "GSOE9010",
+              "MMAN9451",
+              "MMAN9452",
+              "MMAN9453"
+            ]
+          },
+          {
+            "and": [
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ENGG9741",
+              "ENGG9742",
+              "ENGG9743",
+              "ENGG9744",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "GSOE9011",
+              "MMAN9001",
+              "MMAN9002"
+            ]
+          },
+          {
+            "and": [
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ENGG9741",
+              "ENGG9742",
+              "ENGG9743",
+              "ENGG9744",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "FOUNDATIONAL CORE",
+              "GSOE9011",
+              "MMAN9451",
+              "MMAN9452",
+              "MMAN9453"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

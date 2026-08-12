@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ENGGDS",
+      "name": "Sustainable Systems"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 72,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      {
+        "min": 2,
+        "placeholder": "ENGGDS_FC",
+        "from": [
+          "ARTS1240",
+          "ARTS2240",
+          "BIOS1301",
+          "CEIC4000"
+        ]
+      }
+    ],
+    "Disciplinary Core": [
+      "GSOE9510"
+    ],
+    "Advanced Disciplinary Core": [
+      {
+        "id": "CVEN9888/GSOE9740",
+        "or": [
+          "CVEN9888",
+          "GSOE9740"
+        ]
+      },
+      "GSOE9340",
+      "IEST5022"
+    ],
+    "Disciplinary Knowledge Electives": [
+      {
+        "min": 5,
+        "placeholder": "ENGGDS_DKE",
+        "from": [
+          "CEIC4000",
+          "CVEN4104",
+          "CVEN4504",
+          "CVEN9855",
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9886",
+          "CVEN9892",
+          "CVEN9898",
+          "GEOS9011",
+          "GMAT9600",
+          "GSOE9017",
+          "GSOE9111",
+          "IEST7001",
+          "IEST7200",
+          "IEST7600",
+          "SOLA3010",
+          "SOLA5050",
+          "SOLA5057",
+          "SUSD0002"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Electives": [
+      {
+        "min": 1,
+        "placeholder": "ENGGDS_ADE",
+        "from": [
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9892",
+          "GEOS9011",
+          "GSOE9017",
+          "GSOE9111",
+          "SUSD0002"
+        ]
+      }
+    ]
+  }
+}

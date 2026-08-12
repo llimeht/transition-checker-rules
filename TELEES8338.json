@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "TELEES",
+      "name": "Telecommunications"
+    }
+  ],
+  "school": "EET",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECRESEARCH",
+          "ELECPROCAP",
+          "ELECADKE",
+          "ELECADKE",
+          "ELECPROCAP",
+          "ELECETM",
+          "ELECADKE",
+          "ELECADKE"
+        ],
+        "id": "TELEES8338 mapped transition pathway"
+      }
+    ]
+  }
+}

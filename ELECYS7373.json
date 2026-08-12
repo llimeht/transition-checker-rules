@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7373",
+    "name": "Graduate Certificate in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECYS",
+      "name": "Electrical Engineering"
+    }
+  ],
+  "school": "EET",
+  "uoc": 48,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECETM",
+          "ELECDKE"
+        ],
+        "id": "ELECYS7373 mapped transition pathway"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7373",
+    "name": "Graduate Certificate in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "MERECS",
+      "name": "Geoenergy and Geostorage Engineering"
+    }
+  ],
+  "school": "MERE",
+  "uoc": 48,
+  "validity": {
+    "from": "2025",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Disciplinary Knowledge": [
+      "GEOS1111_PG",
+      "MERE3001",
+      "MERE3002",
+      "MERE3003",
+      "MERE_DISC1",
+      "MERE_DISC2",
+      "MERE_DISC3",
+      "MERE_DISC4"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8543",
+    "name": "Master of Information Technology"
+  },
+  "specialisations": [
+    {
+      "id": "COMPMS",
+      "name": "Information Technology"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9311",
+              "COMP9331",
+              "GSOE9820",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "RCP",
+              "ELECTIVE"
+            ]
+          },
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9311",
+              "COMP9331",
+              "COMP9820",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "ELECTIVE",
+              "ELECTIVE",
+              "RCP",
+              "RCP"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

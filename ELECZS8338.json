@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECZS",
+      "name": "Energy Systems"
+    }
+  ],
+  "school": "EET",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "ELEC3105",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECADKE",
+          "ELECADKE",
+          "ELECADKE",
+          "ELECADKE",
+          "ELECPROCAP",
+          "ELECRESEARCH",
+          "ELECPROCAP",
+          "ELECETM"
+        ],
+        "id": "ELECZS8338 mapped transition pathway"
+      }
+    ]
+  }
+}

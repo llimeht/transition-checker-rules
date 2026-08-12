@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "SENGD1",
+      "name": "Software Engineering"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1521",
+              "COMP1531",
+              "MATH1231",
+              "DESN1000",
+              "GEC",
+              "SENG2021",
+              "COMP2521",
+              "ELECTIVE",
+              "COMP2041",
+              "DESN2000",
+              "MATH2400/2859",
+              "SENG2011",
+              "COMP2511",
+              "SENG3011",
+              "COMP4920",
+              "SPE",
+              "SPE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "GEC"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1531",
+              "MATH1231",
+              "GEC",
+              "COMP1521",
+              "DESN1000",
+              "SENG2021",
+              "COMP2041",
+              "COMP2521",
+              "GEC",
+              "COMP2111",
+              "COMP2511",
+              "DESN2000",
+              "MATH2400/2859",
+              "SENG3011",
+              "COMP4920",
+              "SPE",
+              "SPE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "GEC",
+              "COMP1521",
+              "COMP1531",
+              "DESN1000",
+              "MATH1231",
+              "SENG2021",
+              "COMP2041",
+              "COMP2521",
+              "GEC",
+              "COMP2111",
+              "COMP2511",
+              "DESN2000",
+              "MATH2400/2849",
+              "SENG3011",
+              "SPE",
+              "SPE",
+              "ELECTIVE",
+              "COMP4920",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7373",
+    "name": "Graduate Certificate in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "MTRNHS",
+      "name": "Robotics"
+    }
+  ],
+  "school": "MME",
+  "uoc": 48,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "COMP9021",
+      "ENGG1300",
+      "ENGG2400",
+      "MTRN3100",
+      "MTRN3210",
+      "MTRN3500"
+    ]
+  }
+}

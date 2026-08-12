@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "CVENK1",
+      "name": "Environmental Engineering"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Level 1 Courses": [
+      {
+        "min": 3,
+        "placeholder": "CVENK1_L1",
+        "from": [
+          "BIOS1301",
+          "CVEN1701",
+          "DESN1000",
+          "ENGG1811",
+          "MATH1131",
+          "MATH1141",
+          "MATH1231",
+          "MATH1241",
+          "PHYS1121",
+          "PHYS1131",
+          "CHEM1011",
+          "CHEM1811"
+        ]
+      }
+    ],
+    "Level 2 Courses": [
+      {
+        "min": 3,
+        "placeholder": "CVENK1_L2",
+        "from": [
+          "CEIC2009",
+          "CVEN2002",
+          "CVEN2701",
+          "DESN2000",
+          "ENGG2500",
+          "MATH2018",
+          "MATH2019",
+          "MATH2089",
+          "CVEN2703"
+        ]
+      }
+    ],
+    "Level 3 and 4 Prescribed Electives": [
+      {
+        "min": 4,
+        "placeholder": "CVENK1_LEVEL3_AND_4_ELECTIVES",
+        "from": [
+          "CVEN3101",
+          "CVEN3202",
+          "CVEN3203",
+          "CVEN3402",
+          "CVEN3501",
+          "CVEN3502",
+          "CVEN3701",
+          "CVEN3702",
+          "CVEN4103",
+          "CVEN4104",
+          "CVEN4201",
+          "CVEN4202",
+          "CVEN4204",
+          "CVEN4206",
+          "CVEN4207",
+          "CVEN4402",
+          "CVEN4404",
+          "CVEN4405",
+          "CVEN4503",
+          "CVEN4504",
+          "CVEN4507",
+          "CVEN4701",
+          "CVEN4703",
+          "CVEN4705",
+          "CVEN4706",
+          "CVEN4800",
+          "CVEN4801",
+          "CVEN9405",
+          "CVEN9415",
+          "CVEN9612",
+          "CVEN9620",
+          "CVEN9640",
+          "CVEN9881",
+          "ENGG3001",
+          "ENGG4103",
+          "GMAT3220",
+          "GMAT9600",
+          "GMAT9606"
+        ]
+      }
+    ],
+    "Free Electives": [
+      "Free1",
+      "Free2",
+      "Free3",
+      "Free4",
+      "Free5",
+      "Free6"
+    ],
+    "General Education": [
+      "GenEd1",
+      "GenEd2"
+    ]
+  }
+}

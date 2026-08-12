@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECDT",
+      "name": "Systems and Control"
+    }
+  ],
+  "school": "EET",
+  "uoc": 72,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "ELEC4633",
+          "ELEC9731",
+          "ELECDKE",
+          "ELEC3114",
+          "ELEC4631",
+          "ELEC4632",
+          "ELEC9732",
+          "ELECFNDCORE12UOC",
+          "ELECADKE",
+          "ELECETM",
+          "ELECDKE",
+          "ELECDKE"
+        ],
+        "id": "ELECDT5373 mapped transition pathway"
+      }
+    ]
+  }
+}

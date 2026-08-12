@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ENGGF1",
+      "name": "Nuclear Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 144,
+  "validity": {
+    "from": "2026",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      "ATOM2000",
+      "ATOM3001",
+      "ATOM3002",
+      "ATOM3003",
+      "DESN1000",
+      "DESN2000",
+      "MMAN3000",
+      "ENGG1811",
+      "ENGG2500",
+      "FREE1",
+      "FREE1",
+      "FREE1",
+      "FREE1",
+      "FREE1",
+      "FREE1",
+      "GENED1",
+      "GENED2",
+      "MATH1131",
+      "MATH1231",
+      "MATH2019",
+      "MATS1110",
+      "MMAN2700",
+      "PHYS1121",
+      "PHYS2117"
+    ]
+  }
+}

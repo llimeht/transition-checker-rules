@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "ENGGFH",
+      "name": "Nuclear Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 192,
+  "validity": {
+    "from": "2026",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      "ARTS3100",
+      "ATOM2000",
+      "ATOM3001",
+      "ATOM3002",
+      "ATOM3003",
+      "ATOM4001",
+      "ATOM4100",
+      "DESN1000",
+      "DESN2000",
+      "MMAN3000",
+      "DISCIPLINE ELECTIVE",
+      "DISCIPLINE ELECTIVE",
+      "DISCIPLINE ELECTIVE",
+      "DISCIPLINE ELECTIVE",
+      "ELECTIVE COURSE",
+      "ELECTIVE COURSE",
+      "ENGG1811",
+      "ENGG2500",
+      "ENGG9744",
+      "GENED1",
+      "GENED2",
+      "MATH1131",
+      "MATH1231",
+      "MATH2019",
+      "MATH2089",
+      "MATS1110",
+      "MMAN1130",
+      "MMAN2700",
+      "MMAN4010",
+      "MMAN4020",
+      "PHYS1121",
+      "PHYS2117"
+    ]
+  }
+}

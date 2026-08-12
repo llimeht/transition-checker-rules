@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8621",
+    "name": "Master of Engineering"
+  },
+  "specialisations": [
+    {
+      "id": "MINEYS",
+      "name": "Mining Engineering"
+    }
+  ],
+  "school": "MERE",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Disciplinary Core": [
+      "MINE8101",
+      "MINE8115",
+      "MINE8120",
+      "MINE9100"
+    ],
+    "Disciplinary Electives": [
+      "MINE_ELEC_AMA1",
+      "MINE_ELEC_AMA2",
+      "MINE_ELEC_AMA3"
+    ],
+    "Advanced Disciplinary Electives": [
+      "MINE_AD1",
+      "MINE_AD2",
+      "MINE_AD3",
+      "MINE_AD4",
+      "MINE_AD5"
+    ],
+    "Engineering Management Electives": [
+      "ENG_MAN1",
+      "ENG_MAN2"
+    ],
+    "Capstone": [
+      "MINE8440",
+      "MINE8445"
+    ]
+  }
+}

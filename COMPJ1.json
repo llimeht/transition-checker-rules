@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3778",
+    "name": "Bachelor of Science (Computer Science)"
+  },
+  "specialisations": [
+    {
+      "id": "COMPJ1",
+      "name": "Computer Science (Programming Languages)"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1521",
+              "COMP1531",
+              "MATH1231",
+              "COMP2521",
+              "ELECTIVE",
+              "COMP2511",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "COMP4920",
+              "COMP3121",
+              "COMP3161",
+              "ELECTIVE",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "GEC",
+              "COMP3900",
+              "COME",
+              "COME",
+              "GEC"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "GEC",
+              "COMP1521",
+              "COMP1531",
+              "MATH1231",
+              "ELECTIVE",
+              "COMP2521",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "COMP2511",
+              "COMP4920",
+              "COMP3161",
+              "COME",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "ELECTIVE",
+              "COMP3900",
+              "COME",
+              "COME",
+              "GEC"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

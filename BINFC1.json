@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "BINFC1",
+      "name": "Bioinformatics Engineering"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 144,
+  "validity": {
+    "from": "2027",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP1511",
+              "MATH1131",
+              "PHYS1111",
+              "BABS1201",
+              "DESN1000",
+              "MATH1231",
+              "COMP2521",
+              "MATH1081",
+              "BINF2010",
+              "COMP1521",
+              "COMP2041",
+              "CHEM1011",
+              "BIOC2201",
+              "COMP1531",
+              "COMP2511",
+              "COMP3121",
+              "BINF3010",
+              "MATH2801",
+              "DESN2000",
+              "BINF3020",
+              "BABS2264",
+              "COMP4920",
+              "BABS3121",
+              "COMP3311"
+            ]
+          },
+          {
+            "and": [
+              "MATH1131",
+              "PHYS1111",
+              "COMP1511",
+              "MATH1081",
+              "MATH1231",
+              "BABS1201",
+              "COMP1521",
+              "DESN1000",
+              "COMP1531",
+              "COMP2521",
+              "CHEM1011",
+              "COMP2041",
+              "DESN2000",
+              "BINF2010",
+              "BIOC2201",
+              "COMP2511",
+              "BABS3121",
+              "COMP4920",
+              "COMP3121",
+              "BINF3010",
+              "MATH2801",
+              "BINF3020",
+              "COMP3311",
+              "SPE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECWS",
+      "name": "Electrical Engineering"
+    }
+  ],
+  "school": "EET",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECADKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECRESEARCH",
+          "ELECPROCAP",
+          "ELECETM",
+          "ELECPROCAP",
+          "ELECADKE",
+          "ELECADKE",
+          "ELECADKE"
+        ],
+        "id": "ELECWS8338 mapped transition pathway"
+      }
+    ]
+  }
+}

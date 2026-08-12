@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7373",
+    "name": "Graduate Certificate in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECHT",
+      "name": "Space Systems Engineering"
+    }
+  ],
+  "school": "EET",
+  "uoc": 48,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "id": "ELECHT7373 mapped transition pathway",
+        "or": [
+          {
+            "and": [
+              "DESN2000",
+              "COMP1521",
+              "PHYS1121",
+              "AERO9500",
+              "ELEC9762",
+              "ELEC9765",
+              "ELEC9764",
+              "MATH2069"
+            ]
+          },
+          {
+            "and": [
+              "ELEC9764",
+              "MATH2069",
+              "AERO9500",
+              "DESN2000",
+              "COMP1521",
+              "PHYS1121",
+              "AERO9610",
+              "ELEC9762"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "MEREAS",
+      "name": "Geoenergy and Geostorage Engineering"
+    }
+  ],
+  "school": "MERE",
+  "uoc": 96,
+  "validity": {
+    "from": "2025",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Disciplinary Knowledge": [
+      "GEOS1111_PG",
+      "MERE3001",
+      "MERE3002",
+      "MERE3003",
+      "MERE_DISC1",
+      "MERE_DISC2",
+      "MERE_DISC3",
+      "MERE_DISC4"
+    ],
+    "Advanced Disciplinary Knowledge": [
+      "MERE_AD_CORE1",
+      "MERE_AD_CORE2",
+      "MERE_AD_CORE3",
+      "MERE_AD_CORE4"
+    ],
+    "Engineering and Technical Management": [
+      "ENG_TECH1"
+    ],
+    "Capstone": [
+      "GSOE9010",
+      {
+        "id": "CapstoneProject",
+        "or": [
+          {
+            "and": [
+              "MERE_TA_PG",
+              "MERE_TB_PG"
+            ]
+          },
+          {
+            "and": [
+              "MERE9451",
+              "MERE9452",
+              "MERE9453"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
