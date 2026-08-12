@@ -25,7 +25,7 @@
                 "or": ["PHYS1111", "PHYS1121", "PHYS1131"]
             },
             {
-                "or": ["MATH1131", "MATH1141", "MATH1031"]
+                "or": ["MATH1031", "MATH1131", "MATH1141"]
             },
             {
                 "or": ["MATH1041", "MATH1231", "MATH1241"]

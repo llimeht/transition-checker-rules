@@ -43,10 +43,12 @@
         "ADK Core": [
             {
                 "id": "ADKProduct",
+                "placeholder": "CEICKSADKCoreProduct",
                 "or": ["CEIC6711", "CEIC8105"]
             },
             {
                 "id": "ADKProcess",
+                "placeholder": "CEICKSADKCoreProcess",
                 "or": ["CEIC8102", "CEIC8341", "CHEN6701", "CHEN6706", "FOOD8801"]
             }
         ],

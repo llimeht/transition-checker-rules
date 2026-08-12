@@ -3,48 +3,37 @@
     "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
     "status": "Under review",
     "career": "Postgraduate",
-    "program": {"id": "8338", "name": "Master of Engineering Science"},
+    "program": {"id": "8338", "name": "Master of Engineering Science (with RPL)"},
     "specialisations": [
-        {"id": "FOODCS", "name": "Food Process Engineering"}
+        {"id": "FOODCS", "name": "Food Process Engineering (with RPL)"}
     ],
     "school": "CEIC",
-    "uoc": 96,
+    "uoc": 48,
     "validity": {
         "from": "2024",
         "to": "2029"
     },
+    "rpl": [
+        "ENGG0151",
+        "ENGG0152",
+        "ENGG0153",
+        "ENGG0089",
+        "ENGG0090",
+        "ENGG0024",
+        "FOODCSSRPL48"
+    ],
     "required": {
-        "FDK Core": [
-            {
-                "id": "FOODCSfdkc",
-                "placeholder": "FOODCSfdkc",
-                "or": ["FOOD1120", "FOOD3060"]
-            }
-        ],
         "DK Core": [
-            "CEIC6711",
-            "FOOD8010",
-            "FOOD8020",
-            "FOOD8030"
-        ],
-        "DK Electives": [
             {
-                "min": 3,
-                "placeholder": "FOODCSdke",
+                "min": 1,
+                "placeholder": "FOODCSdkc",
                 "from": [
-                    "CEIC6712",
-                    "FOOD8110",
-                    "FOOD8220",
-                    "FOOD8320",
-                    "FOOD8403",
-                    "FOOD9102",
-                    "FOOD9103",
-                    "GSOE9997"
+                    "CEIC6711",
+                    "FOOD8010",
+                    "FOOD8020",
+                    "FOOD8030"
                 ]
             }
-        ],
-        "ETM Core": [
-            "CEIC8204"
         ],
         "ETM Electives": [
                 {
