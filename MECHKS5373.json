@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "MECHKS",
+      "name": "Mechanical and Advanced Manufacturing Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 72,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "DISCIPLINARY KNOWLEDGE ELECTIVE",
+      "MECH3110",
+      "MECH3610",
+      "MMAN3200",
+      "MMAN3400"
+    ]
+  }
+}

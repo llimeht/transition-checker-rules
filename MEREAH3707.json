@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "MEREAH",
+      "name": "Geoenergy and Geostorage Engineering"
+    }
+  ],
+  "school": "MERE",
+  "uoc": 192,
+  "validity": {
+    "from": "2025",
+    "to": "2029"
+  },
+  "required": {
+    "Level 1 and Common Engineering Core": [
+      "DESN1000",
+      "ENGG1811",
+      "GEOS1111",
+      {
+        "id": "EngineeringChemistryOrMechanics",
+        "or": [
+          "CHEM1811",
+          "ENGG1300"
+        ]
+      },
+      {
+        "id": "Physics1A",
+        "or": [
+          "PHYS1121",
+          "PHYS1131"
+        ]
+      },
+      "MATH1131",
+      "MATH1231"
+    ],
+    "Level 2": [
+      "DESN2000",
+      "ENGG2400",
+      "ENGG2500",
+      "MATH2089",
+      {
+        "id": "EngineeringMathematics2",
+        "or": [
+          "MATH2018",
+          "MATH2019"
+        ]
+      },
+      {
+        "id": "ResourceGeology",
+        "or": [
+          "MERE2810",
+          "MERE2002"
+        ]
+      },
+      "MMAN2700"
+    ],
+    "Disciplinary Core": [
+      "PTRL5100",
+      "MERE3001",
+      "MERE3002",
+      "MERE3003",
+      "MERE5003",
+      "MERE5004",
+      "MERE5005",
+      "MERE5006",
+      "MERE5007",
+      "MERE5008"
+    ],
+    "Engineering Thesis": [
+      "MERE_TA",
+      "MERE_TB"
+    ],
+    "Disciplinary Electives": [
+      {
+        "min": 2,
+        "placeholder": "MINE_ELEC1",
+        "from": [
+          "MERE_ELEC1",
+          "MERE_ELEC2"
+        ]
+      }
+    ],
+    "Program Electives and General Education": [
+      "FREE1",
+      "FREE2",
+      "GENED1",
+      "GENED2"
+    ]
+  }
+}

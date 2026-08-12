@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8621",
+    "name": "Master of Engineering"
+  },
+  "specialisations": [
+    {
+      "id": "ELECAS",
+      "name": "Electrical Engineering"
+    }
+  ],
+  "school": "EET",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "id": "ELECAS8621 mapped transition pathway",
+        "or": [
+          {
+            "and": [
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L5 ELECTIVES",
+              "L5 ELECTIVES",
+              "L5 ELECTIVES",
+              "ELEC9451",
+              "ELEC9123",
+              "L5 ELECTIVES",
+              "ELEC9452",
+              "ELECETM",
+              "ELEC9453",
+              "ELECETM",
+              "L5 ELECTIVES"
+            ]
+          },
+          {
+            "and": [
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L4 ELECTIVES",
+              "L5 ELECTIVES",
+              "L5 ELECTIVES",
+              "ELEC9123",
+              "ELEC9120",
+              "L5 ELECTIVES",
+              "ELEC9121",
+              "L5 ELECTIVES",
+              "ELECETM",
+              "ELECETM",
+              "L5 ELECTIVES"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

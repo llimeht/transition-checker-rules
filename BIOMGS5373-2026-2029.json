@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "BIOMGS",
+      "name": "Biomedical Engineering"
+    }
+  ],
+  "school": "BIOM",
+  "uoc": 72,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      "BABS1201",
+      "ANAT2511",
+      "PHSL2121",
+      "PHSL2221"
+    ],
+    "Advanced Core": [
+      "BIOM9410",
+      "BIOM9332"
+    ],
+    "Research/Capstone": [
+      "GSOE9010"
+    ],
+    "Engineering Technical Management": [
+      {
+        "min": 2,
+        "from": [
+          "GSOE9820",
+          "GSOE9340",
+          "GSOE9830",
+          "GSOE9810",
+          "GSOE9712",
+          "GSOE9997",
+          "ENTM1",
+          "ENTM2"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Knowledge Electives": [
+      {
+        "min": 3,
+        "from": [
+          "BIOM9450",
+          "BINF9020",
+          "BIOM9311",
+          "BIOM9551",
+          "BIOM9650",
+          "BIOM9701",
+          "MECH9650",
+          "BIOM9027",
+          "BIOM9333",
+          "BIOM9621",
+          "BIOM9660",
+          "BIOM9711",
+          "BIOM9541",
+          "ADKE1",
+          "ADKE2",
+          "ADKE3"
+        ]
+      }
+    ]
+  }
+}

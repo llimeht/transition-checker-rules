@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7373",
+    "name": "Graduate Certificate in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "BIOMHS",
+      "name": "Biomedical Engineering"
+    }
+  ],
+  "school": "BIOM",
+  "uoc": 48,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      "ANAT2511",
+      "BABS1201",
+      "PHSL2121",
+      "PHSL2221"
+    ],
+    "Advanced Core": [
+      "BIOM9332",
+      "BIOM9410"
+    ],
+    "Engineering Technical Management": [
+      {
+        "min": 2,
+        "from": [
+          "GSOE9340",
+          "GSOE9830",
+          "GSOE9820",
+          "GSOE9810",
+          "GSOE9712",
+          "ENTM1",
+          "ENTM2"
+        ]
+      }
+    ]
+  }
+}

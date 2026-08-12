@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3778",
+    "name": "Bachelor of Science (Computer Science)"
+  },
+  "specialisations": [
+    {
+      "id": "COMPN1",
+      "name": "Computer Science (Computer Networks)"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1521",
+              "COMP1531",
+              "MATH1231",
+              "COMP2521",
+              "ELECTIVE",
+              "COMP2511",
+              "COMP3331",
+              "ELECTIVE",
+              "ELECTIVE",
+              "COMP4920",
+              "COMP3121",
+              "COME",
+              "ELECTIVE",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "GEC",
+              "COMP3900",
+              "COME",
+              "ELECTIVE",
+              "GEC"
+            ]
+          },
+          {
+            "and": [
+              "COMP1511",
+              "MATH1081",
+              "MATH1131",
+              "COMP1521",
+              "COMP1531",
+              "COMP2521",
+              "MATH1231",
+              "COMP2511",
+              "ELECTIVE",
+              "ELECTIVE",
+              "COMP3121",
+              "COMP4920",
+              "COMP3331",
+              "ELECTIVE",
+              "COME",
+              "COME",
+              "ELECTIVE",
+              "GEC",
+              "COMP3900",
+              "COME",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "GEC"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

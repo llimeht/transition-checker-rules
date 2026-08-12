@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "COMPBH",
+      "name": "Computer Engineering"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "MATH1081",
+              "ELEC1111",
+              "COMP1511",
+              "PHYS1121",
+              "MATH1131",
+              "MATH1231",
+              "DESN1000",
+              "PHYS1221",
+              "COMP1521",
+              "COMP1531",
+              "ELEC2134",
+              "DESN2000",
+              "MATH2099",
+              "ELEC2133",
+              "COMP2521",
+              "ELECTIVE",
+              "COMP2511",
+              "COMP3231",
+              "COMP3222",
+              "SPE",
+              "COMP3211",
+              "COMP3601",
+              "COMP4920",
+              "SPE",
+              "COMP4930",
+              "COMP4601",
+              "ELECTIVE",
+              "GEC",
+              "COMP4931",
+              "GEC",
+              "SPE",
+              "SPE"
+            ]
+          },
+          {
+            "and": [
+              "MATH1081",
+              "COMP1511",
+              "ELEC1111",
+              "COMP1521",
+              "PHYS1121",
+              "MATH1131",
+              "COMP1531",
+              "DESN1000",
+              "PHYS1221",
+              "MATH1231",
+              "COMP2521",
+              "ELEC2104",
+              "COMP3222",
+              "COMP2511",
+              "DESN2000",
+              "COMP3211",
+              "MATH2099",
+              "COMP3601",
+              "ELEC2133",
+              "COMP4601",
+              "COMP3231",
+              "GEC",
+              "ELECTIVE",
+              "COMP4930",
+              "ELECTIVE",
+              "GEC",
+              "SPE",
+              "COMP4931",
+              "COMP4920",
+              "SPE",
+              "SPE",
+              "SPE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

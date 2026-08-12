@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "MANFBH",
+      "name": "Mechanical and Manufacturing Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 192,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      {
+        "id": "MappedAwardRequirements",
+        "or": [
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "MMAN3000",
+              "DISCIPLINE ELECTIVE",
+              "DISCIPLINE ELECTIVE",
+              "ELEC1111",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "ENGG2500",
+              "FREE1",
+              "FREE2",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4150",
+              "MANF4430",
+              "MANF4611",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MECH3110",
+              "MMAN1130",
+              "MMAN2300",
+              "MMAN2700",
+              "MMAN3200",
+              "MMAN4010",
+              "MMAN4020",
+              "MMAN4400",
+              "PHYS1121"
+            ]
+          },
+          {
+            "and": [
+              "DESN1000",
+              "DESN2000",
+              "MMAN3000",
+              "DISCIPLINE ELECTIVE",
+              "DISCIPLINE ELECTIVE",
+              "ELEC1111",
+              "ENGG1300",
+              "ENGG1811",
+              "ENGG2400",
+              "ENGG2500",
+              "FREE1",
+              "FREE2",
+              "GENED1",
+              "GENED2",
+              "MANF3510",
+              "MANF4100",
+              "MANF4150",
+              "MANF4430",
+              "MANF4611",
+              "MATH1131",
+              "MATH1231",
+              "MATH2019",
+              "MATH2089",
+              "MECH3110",
+              "MMAN1130",
+              "MMAN2300",
+              "MMAN2700",
+              "MMAN3200",
+              "MMAN4400",
+              "MMAN4951",
+              "MMAN4952",
+              "MMAN4953",
+              "PHYS1121"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

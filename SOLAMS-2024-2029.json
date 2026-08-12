@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "SOLAMS",
+      "name": "Renewable Energy"
+    }
+  ],
+  "school": "SPREE",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Core": [
+      "ELEC1111",
+      "ELEC2911",
+      "GSOE9010",
+      "GSOE9017",
+      "SOLA2060",
+      "SOLA3010",
+      "SOLA4012",
+      "SOLA5053",
+      "SOLA9001",
+      "SOLA9103",
+      "SOLA9104",
+      {
+        "id": "Masters project",
+        "or": [
+          {
+            "and": [
+              "SOLA9451",
+              "SOLA9452",
+              "SOLA9453"
+            ]
+          },
+          {
+            "and": [
+              "SOLA9914",
+              "SOLA9915"
+            ]
+          }
+        ]
+      }
+    ],
+    "Approved options": [
+      {
+        "id": "18 UoC approved options",
+        "min": 3,
+        "from": [
+          "ELEC9714",
+          "ELEC9715",
+          "GSOE9111",
+          "MECH9720",
+          "SOLA5050",
+          "SOLA5056"
+        ]
+      }
+    ]
+  }
+}

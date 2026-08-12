@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "SOLAC1",
+      "name": "Photovoltaics and Solar Energy"
+    }
+  ],
+  "school": "SPREE",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2024"
+  },
+  "required": {
+    "Confirmed 2024 mapped core": [
+      "DESN1000",
+      "DESN2000",
+      "DISP1",
+      "ELEC1111",
+      {
+        "id": "Computing",
+        "or": [
+          "ENGG1811",
+          "COMP1511",
+          "COMP1911"
+        ]
+      },
+      "GENED1",
+      "GENED2",
+      {
+        "id": "Mathematics 1A",
+        "or": [
+          "MATH1131",
+          "MATH1141"
+        ]
+      },
+      {
+        "id": "Mathematics 1B",
+        "or": [
+          "MATH1231",
+          "MATH1241",
+          "MATH1961"
+        ]
+      },
+      {
+        "id": "Engineering Mathematics 2",
+        "or": [
+          "MATH2018",
+          "MATH2019"
+        ]
+      },
+      "MATH2089",
+      {
+        "id": "Physics 1A",
+        "or": [
+          "PHYS1121",
+          "PHYS1131"
+        ]
+      },
+      {
+        "id": "Physics 1B",
+        "or": [
+          "PHYS1221",
+          "PHYS1231"
+        ]
+      },
+      "SOLA1070",
+      "SOLA2051",
+      "SOLA2060",
+      "SOLA2540",
+      "SOLA3010",
+      "SOLA3020",
+      "SOLA3507",
+      "STRAND1",
+      "STRAND2",
+      "STRAND3",
+      {
+        "id": "Final mapped elective",
+        "or": [
+          "DISP2",
+          "ELEC4122"
+        ]
+      }
+    ]
+  }
+}

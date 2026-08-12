@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8621",
+    "name": "Master of Engineering"
+  },
+  "specialisations": [
+    {
+      "id": "BIOMES",
+      "name": "Biomedical Engineering"
+    }
+  ],
+  "school": "BIOM",
+  "uoc": 96,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Advanced Disciplinary Elective Pattern": [
+      {
+        "or": [
+          {
+            "and": [
+              {
+                "min": 3,
+                "from": [
+                  "BIOM9701",
+                  "BIOM9541",
+                  "BIOM9551",
+                  "MECH9650"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9621",
+                  "BIOM9650",
+                  "BIOM9660"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9333",
+                  "BIOM9311",
+                  "BIOM9332"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9450",
+                  "BINF9020",
+                  "BIOM9027",
+                  "BIOM9711"
+                ]
+              }
+            ]
+          },
+          {
+            "and": [
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9701",
+                  "BIOM9541",
+                  "BIOM9551",
+                  "MECH9650"
+                ]
+              },
+              {
+                "min": 3,
+                "from": [
+                  "BIOM9621",
+                  "BIOM9650",
+                  "BIOM9660"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9333",
+                  "BIOM9311",
+                  "BIOM9332"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9450",
+                  "BINF9020",
+                  "BIOM9027",
+                  "BIOM9711"
+                ]
+              }
+            ]
+          },
+          {
+            "and": [
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9701",
+                  "BIOM9541",
+                  "BIOM9551",
+                  "MECH9650"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9621",
+                  "BIOM9650",
+                  "BIOM9660"
+                ]
+              },
+              {
+                "min": 3,
+                "from": [
+                  "BIOM9333",
+                  "BIOM9311",
+                  "BIOM9332"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9450",
+                  "BINF9020",
+                  "BIOM9027",
+                  "BIOM9711"
+                ]
+              }
+            ]
+          },
+          {
+            "and": [
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9701",
+                  "BIOM9541",
+                  "BIOM9551",
+                  "MECH9650"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9621",
+                  "BIOM9650",
+                  "BIOM9660"
+                ]
+              },
+              {
+                "min": 1,
+                "from": [
+                  "BIOM9333",
+                  "BIOM9311",
+                  "BIOM9332"
+                ]
+              },
+              {
+                "min": 3,
+                "from": [
+                  "BIOM9450",
+                  "BINF9020",
+                  "BIOM9027",
+                  "BIOM9711"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Core Courses": [
+      {
+        "min": 1,
+        "from": [
+          "BIOM9333",
+          "BIOM9551",
+          "BIOM9660"
+        ]
+      }
+    ],
+    "Additional Approved Advanced/Core Course": [
+      {
+        "min": 1,
+        "from": [
+          "BINF9020",
+          "BIOM9027",
+          "BIOM9311",
+          "BIOM9332",
+          "BIOM9333",
+          "BIOM9450",
+          "BIOM9541",
+          "BIOM9551",
+          "BIOM9621",
+          "BIOM9650",
+          "BIOM9660",
+          "BIOM9701",
+          "BIOM9711",
+          "MECH9650"
+        ]
+      }
+    ],
+    "Research Core": [
+      {
+        "or": [
+          "BIOM9914",
+          {
+            "and": [
+              "BIOM9020",
+              "BIOM9021"
+            ]
+          }
+        ]
+      }
+    ],
+    "Disciplinary Electives": [
+      {
+        "min": 5,
+        "from": [
+          "BIOM9920",
+          "BIOM9610",
+          "PHSL2121",
+          "BIOM9910",
+          "PHSL2221",
+          "BIOM9310",
+          "BIOM9640",
+          "BIOM9410",
+          "ANAT2511",
+          "BIOM9420",
+          "BIOM9561",
+          "DISE5-1",
+          "DISE5-2",
+          "DISE5-3",
+          "DISE5-4",
+          "DISE5-5"
+        ]
+      }
+    ],
+    "Engineering and Technical Management - primary": [
+      {
+        "min": 1,
+        "from": [
+          "GSOE9820",
+          "GSOE9510",
+          "GSOE9445",
+          "ENTM1"
+        ]
+      }
+    ],
+    "Engineering and Technical Management - second course": [
+      {
+        "min": 1,
+        "from": [
+          "GSOE9820",
+          "GSOE9510",
+          "GSOE9445",
+          "ENTM1",
+          "GSOE9830",
+          "GSOE9220",
+          "GSOE9712",
+          "GSOE9210",
+          "COMP9021",
+          "MATH5165",
+          "GSOE9360",
+          "MATH5846",
+          "ENTM2"
+        ]
+      }
+    ]
+  },
+  "shared-courses": {
+    "double-counted": [
+      "BIOM9333",
+      "BIOM9551",
+      "BIOM9660"
+    ]
+  }
+}

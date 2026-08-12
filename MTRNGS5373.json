@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "MTRNGS",
+      "name": "Robotics"
+    }
+  ],
+  "school": "MME",
+  "uoc": 72,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      "ADVANCED DISCIPLINARY KNOWLEDGE & DISCIPLINARY KNOWLEDGE ELECTIVES",
+      "ADVANCED DISCIPLINARY KNOWLEDGE & DISCIPLINARY KNOWLEDGE ELECTIVES",
+      "ADVANCED DISCIPLINARY KNOWLEDGE CORE",
+      "ADVANCED DISCIPLINARY KNOWLEDGE CORE",
+      "COMP9021",
+      "ENGG1300",
+      "ENGG2400",
+      "MMAN3200",
+      "MTRN3100",
+      "MTRN3500",
+      "MTRN4010",
+      "MTRN4230"
+    ]
+  }
+}

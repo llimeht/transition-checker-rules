@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "GMATF1",
+      "name": "Surveying"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Level 1 Courses": [
+      {
+        "min": 3,
+        "placeholder": "GMATF1_L1",
+        "from": [
+          "DESN1000",
+          "ENGG1811",
+          "GMAT1110",
+          "MATH1131",
+          "MATH1141",
+          "MATH1231",
+          "MATH1241",
+          "PHYS1121",
+          "PHYS1131"
+        ]
+      }
+    ],
+    "Level 2 Courses": [
+      {
+        "min": 3,
+        "placeholder": "GMATF1_L2",
+        "from": [
+          "CVEN2002",
+          "DESN2000",
+          "ENGG2500",
+          "GMAT2120",
+          "GMAT2500",
+          "GMAT2550",
+          "GMAT2700",
+          "MATH2018",
+          "MATH2019",
+          "MATH2089"
+        ]
+      }
+    ],
+    "Level 3 and 4 Prescribed Electives": [
+      {
+        "min": 4,
+        "placeholder": "GMATF1_LEVEL3_AND_4_ELECTIVES",
+        "from": [
+          "CVEN2101",
+          "CVEN3101",
+          "CVEN3401",
+          "CVEN3501",
+          "CVEN4206",
+          "CVEN4207",
+          "CVEN4801",
+          "ENGG1400",
+          "ENGG3001",
+          "GEOS3911",
+          "GMAT3100",
+          "GMAT3150",
+          "GMAT3220",
+          "GMAT3420",
+          "GMAT3500",
+          "GMAT3700",
+          "GMAT4150",
+          "GMAT4220",
+          "GMAT4400",
+          "PLAN7140"
+        ]
+      }
+    ],
+    "Free Electives": [
+      "Free1",
+      "Free2",
+      "Free3",
+      "Free4",
+      "Free5",
+      "Free6"
+    ],
+    "General Education": [
+      "GenEd1",
+      "GenEd2"
+    ]
+  }
+}

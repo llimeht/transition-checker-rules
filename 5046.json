@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5046",
+    "name": "Mine Ventilation"
+  },
+  "specialisations": [],
+  "school": "MERE",
+  "uoc": 48,
+  "validity": {
+    "from": "2025",
+    "to": "2029"
+  },
+  "required": {
+    "Program Core": [
+      "MINE9901",
+      "MINE9902",
+      "MINE9903",
+      "MINE9904",
+      "MINE9905",
+      "MINE9920",
+      "MINE9921",
+      "MINE9922"
+    ]
+  }
+}

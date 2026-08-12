@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7373",
+    "name": "Graduate Certificate in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "CVENKS",
+      "name": "Transport Engineering"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 48,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      "CVEN3401"
+    ],
+    "Disciplinary Knowledge Electives": [
+      {
+        "min": 5,
+        "placeholder": "CVENKS_DKE",
+        "from": [
+          "AVIA5004",
+          "AVIA5008",
+          "AVIA5030",
+          "AVIA5040",
+          "COMP9021",
+          "COMP9024",
+          "CVEN4103",
+          "CVEN4104",
+          "CVEN4201",
+          "CVEN4402",
+          "CVEN4206",
+          "CVEN4207",
+          "CVEN4404",
+          "CVEN4405",
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422",
+          "CVEN9701",
+          "CVEN9702",
+          "CVEN9710",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9855",
+          "CVEN9885",
+          "CVEN9886",
+          "CVEN9887",
+          "CVEN9888",
+          "CVEN9892",
+          "CVEN9901",
+          "GEOS9016",
+          "GMAT9205",
+          "GMAT9600",
+          "GMAT9606",
+          "MATH5165",
+          "MATH5855"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Knowledge Electives": [
+      {
+        "min": 2,
+        "placeholder": "CVENKS_ADKE",
+        "from": [
+          "AVIA5040",
+          "COMP9021",
+          "COMP9024",
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422",
+          "CVEN9701",
+          "CVEN9702",
+          "CVEN9710",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9855",
+          "CVEN9885",
+          "CVEN9886",
+          "CVEN9887",
+          "CVEN9888",
+          "CVEN9892",
+          "CVEN9901",
+          "GEOS9016",
+          "GMAT9205",
+          "GMAT9600",
+          "GMAT9606"
+        ]
+      }
+    ]
+  }
+}

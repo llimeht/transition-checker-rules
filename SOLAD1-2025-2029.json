@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "SOLAD1",
+      "name": "Renewable Energy Engineering"
+    }
+  ],
+  "school": "SPREE",
+  "uoc": 144,
+  "validity": {
+    "from": "2025",
+    "to": "2029"
+  },
+  "required": {
+    "Confirmed 2025-2029 mapped core": [
+      "DESN1000",
+      "DESN2000",
+      "ELEC1111",
+      {
+        "id": "Computing",
+        "or": [
+          "ENGG1811",
+          "COMP1511",
+          "COMP1911"
+        ]
+      },
+      "FREE1",
+      "FREE2",
+      "FREE3",
+      "FREE4",
+      "FREE5",
+      "GENED1",
+      {
+        "id": "Mathematics 1A",
+        "or": [
+          "MATH1131",
+          "MATH1141"
+        ]
+      },
+      {
+        "id": "Mathematics 1B",
+        "or": [
+          "MATH1231",
+          "MATH1241",
+          "MATH1961"
+        ]
+      },
+      {
+        "id": "Physics 1A",
+        "or": [
+          "PHYS1121",
+          "PHYS1131"
+        ]
+      },
+      {
+        "id": "Physics 1B",
+        "or": [
+          "PHYS1221",
+          "PHYS1231"
+        ]
+      },
+      "SOLA1070",
+      "SOLA2051",
+      "SOLA2060",
+      "SOLA2540",
+      "SOLA3010",
+      "SOLA5053",
+      "SOLA5057",
+      {
+        "id": "Circuits transition course",
+        "or": [
+          "ELEC2134",
+          "ELEC2115"
+        ]
+      },
+      "GENED2",
+      {
+        "id": "Final mapped elective",
+        "or": [
+          "FREE6",
+          "GENED3"
+        ]
+      }
+    ]
+  }
+}

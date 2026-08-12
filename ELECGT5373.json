@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECGT",
+      "name": "Space Systems Engineering"
+    }
+  ],
+  "school": "EET",
+  "uoc": 72,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "AERO9610",
+          "PHYS1121",
+          "DESN2000",
+          "COMP1521",
+          "ELECADKE",
+          "ELEC9765",
+          "MATH2069",
+          "ELEC9762",
+          "ELECADKC",
+          "ELECADKE",
+          "AERO9500",
+          "ELEC9764"
+        ],
+        "id": "ELECGT5373 mapped transition pathway"
+      }
+    ]
+  }
+}

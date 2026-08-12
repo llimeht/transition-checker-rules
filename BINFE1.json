@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3970",
+    "name": "Bachelor of Science"
+  },
+  "specialisations": [
+    {
+      "id": "BINFE1",
+      "name": "Bioinformatics"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 144,
+  "validity": {
+    "from": "2027",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "and": [
+          "elective",
+          "elective",
+          "elective",
+          "COMP1511",
+          "elective",
+          "elective",
+          "elective",
+          "elective",
+          "COMP2041",
+          "BINF2010",
+          "elective",
+          "elective",
+          "elective",
+          "elective",
+          "elective",
+          "elective",
+          "BINF3010",
+          "elective",
+          "elective",
+          "elective",
+          "BINF3020",
+          "elective",
+          "elective",
+          "elective"
+        ],
+        "id": "MappedCurriculumVariant"
+      }
+    ]
+  }
+}

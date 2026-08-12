@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3707",
+    "name": "Bachelor of Engineering (Honours)"
+  },
+  "specialisations": [
+    {
+      "id": "BIOMMH",
+      "name": "Biomedical Engineering"
+    }
+  ],
+  "school": "BIOM",
+  "uoc": 192,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Level 1": [
+      "ENGG1811",
+      "DESN1000",
+      "ELEC1111",
+      "MATS1101",
+      "BIOM1500",
+      {
+        "or": [
+          "PHYS1121",
+          "PHYS1131"
+        ],
+        "id": "Physics 1A"
+      },
+      {
+        "or": [
+          "MATH1131",
+          "MATH1141"
+        ],
+        "id": "Mathematics 1A"
+      },
+      {
+        "or": [
+          "MATH1231",
+          "MATH1241"
+        ],
+        "id": "Mathematics 1B"
+      }
+    ],
+    "Level 2": [
+      "MATH2089",
+      "BIOM2300",
+      "PHSL2121",
+      "BIOM2600",
+      "BIOM2601",
+      "BIOM2700",
+      "DESN2000",
+      {
+        "or": [
+          "MATH2018",
+          "MATH2019"
+        ],
+        "id": "Engineering Mathematics 2"
+      }
+    ],
+    "Level 3": [
+      "BIOM3500",
+      "BIOM3300",
+      "BIOM3600",
+      "BIOM3001",
+      "BIOM3000"
+    ],
+    "Level 4": [
+      "BIOM9410",
+      "BIOM9711",
+      {
+        "or": [
+          {
+            "and": [
+              "BIOM4951",
+              "BIOM4952",
+              "BIOM4953"
+            ]
+          },
+          {
+            "and": [
+              "BIOM4001",
+              "BIOM4002"
+            ]
+          }
+        ],
+        "id": "Thesis"
+      }
+    ],
+    "Discipline Electives": [
+      {
+        "min": 3,
+        "from": [
+          "BIOM9551",
+          "BIOM9311",
+          "BIOM9701",
+          "BIOM9333",
+          "BIOM9910",
+          "BIOM9660",
+          "BIOM9920",
+          "MATS4019",
+          "BIOM9621",
+          "BIOM9450",
+          "BIOM9811",
+          "CEIC6712",
+          "BIOM9027",
+          "DISE1",
+          "DISE2",
+          "DISE3"
+        ],
+        "id": "18 UOC discipline electives"
+      }
+    ],
+    "Program Electives": [
+      "FREE1",
+      "FREE2",
+      "GENED1",
+      "GENED2"
+    ]
+  }
+}

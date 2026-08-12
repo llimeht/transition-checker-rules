@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5373",
+    "name": "Graduate Diploma in Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECAT",
+      "name": "Energy Systems"
+    }
+  ],
+  "school": "EET",
+  "uoc": 72,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "ELECFNDCORE12UOC",
+          "ELECDKE",
+          "ELECDKE",
+          "ELEC3105",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECDKE",
+          "ELECADKE",
+          "ELECADKE",
+          "ELECADKE",
+          "ELECETM"
+        ],
+        "id": "ELECAT5373 mapped transition pathway"
+      }
+    ]
+  }
+}

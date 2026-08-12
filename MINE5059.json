@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5059",
+    "name": "Mine Geotechnical Engineering"
+  },
+  "specialisations": [],
+  "school": "MERE",
+  "uoc": 48,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Program Core": [
+      "MINE8120",
+      "MINE8140",
+      "MINE8680",
+      "MINE8760",
+      "MINE8860"
+    ],
+    "Mine Geotechnical Engineering Electives": [
+      "MINE_GEO_ELEC1",
+      "MINE_GEO_ELEC2",
+      "MINE_GEO_ELEC3"
+    ]
+  }
+}

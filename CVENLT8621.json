@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8621",
+    "name": "Master of Engineering"
+  },
+  "specialisations": [
+    {
+      "id": "CVENLT",
+      "name": "Environmental Engineering"
+    }
+  ],
+  "school": "CVEN",
+  "uoc": 96,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Analysis and Design Core": [
+      "CVEN9625",
+      "CVEN9886",
+      "CVEN9887"
+    ],
+    "Research Project": [
+      "CVEN9000",
+      {
+        "id": "Project",
+        "or": [
+          {
+            "and": [
+              "CVEN9050",
+              "CVEN9051"
+            ]
+          },
+          {
+            "and": [
+              "CVEN9451",
+              "CVEN9452",
+              "CVEN9453"
+            ]
+          }
+        ]
+      }
+    ],
+    "Engineering and Environment Electives": [
+      {
+        "min": 1,
+        "placeholder": "CVELT_ENV_ELECTIVE",
+        "from": [
+          "CVEN3701",
+          "CVEN4705",
+          "CVEN4706",
+          "CVEN9888",
+          "CVEN9898"
+        ]
+      }
+    ],
+    "Management Electives": [
+      {
+        "min": 1,
+        "placeholder": "CVENLT_MGMT_ELECTIVE",
+        "from": [
+          "CVEN4102",
+          "CVEN4103",
+          "CVEN9701",
+          "CVEN9710",
+          "CVEN9741",
+          "CVEN9742",
+          "CVEN9743",
+          "CVEN9744",
+          "GSOE9010",
+          "GSOE9011",
+          "GSOE9360",
+          "GSOE9510"
+        ]
+      }
+    ],
+    "Disciplinary Knowledge Courses": [
+      {
+        "min": 1,
+        "placeholder": "CVENLT_DISC_KNOWLEDGE",
+        "from": [
+          "CVEN4104",
+          "CVEN4201",
+          "CVEN4202",
+          "CVEN4204",
+          "CVEN4402",
+          "CVEN4507",
+          "CVEN4703",
+          "CVEN4800",
+          "CVEN9525",
+          "GMAT9205",
+          "GMAT9600"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Knowledge Electives": [
+      {
+        "min": 5,
+        "placeholder": "CVENLT_ADV_DISC_ELECTIVE",
+        "from": [
+          "CVEN9855",
+          "CVEN9856",
+          "CVEN9857",
+          "CVEN9872",
+          "CVEN9881",
+          "CVEN9888",
+          "CVEN9892",
+          "GMAT9606",
+          "CVEN9510",
+          "CVEN9511",
+          "CVEN9512",
+          "CVEN9405",
+          "CVEN9407",
+          "CVEN9415",
+          "CVEN9421",
+          "CVEN9422",
+          "CVEN9701",
+          "CVEN9702",
+          "CVEN9710",
+          "CVEN9723",
+          "CVEN9731",
+          "CVEN9611",
+          "CVEN9612",
+          "CVEN9620",
+          "CVEN9630",
+          "CVEN9640"
+        ]
+      }
+    ]
+  }
+}

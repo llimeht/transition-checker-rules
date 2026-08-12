@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3706",
+    "name": "Bachelor of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "BIOMM1",
+      "name": "Biomedical Engineering"
+    }
+  ],
+  "school": "BIOM",
+  "uoc": 144,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Major level minima": [
+      {
+        "min": 3,
+        "from": [
+          "ENGG1811",
+          "MATS1101",
+          "BIOM1500",
+          "ELEC1111",
+          "DESN1000",
+          "PHYS1121",
+          "PHYS1131",
+          "MATH1131",
+          "MATH1141",
+          "MATH1231",
+          "MATH1241"
+        ],
+        "id": "Level 1 minimum - 18 UOC"
+      },
+      {
+        "min": 3,
+        "from": [
+          "BIOM2700",
+          "BIOM2300",
+          "BIOM2601",
+          "MATH2089",
+          "DESN2000",
+          "PHSL2121",
+          "BIOM2600",
+          "MATH2018",
+          "MATH2019"
+        ],
+        "id": "Level 2 minimum - 18 UOC"
+      },
+      {
+        "min": 4,
+        "from": [
+          "BIOM3300",
+          "BIOM3500",
+          "BIOM3000",
+          "BIOM3600",
+          "BIOM3001",
+          "BIOM9410",
+          "BIOM9711"
+        ],
+        "id": "Level 3/4 minimum - 24 UOC"
+      }
+    ],
+    "Remaining major courses": [
+      {
+        "min": 6,
+        "from": [
+          "ENGG1811",
+          "MATS1101",
+          "BIOM1500",
+          "ELEC1111",
+          "DESN1000",
+          "PHYS1121",
+          "PHYS1131",
+          "MATH1131",
+          "MATH1141",
+          "MATH1231",
+          "MATH1241",
+          "BIOM2700",
+          "BIOM2300",
+          "BIOM2601",
+          "MATH2089",
+          "DESN2000",
+          "PHSL2121",
+          "BIOM2600",
+          "MATH2018",
+          "MATH2019",
+          "BIOM3300",
+          "BIOM3500",
+          "BIOM3000",
+          "BIOM3600",
+          "BIOM3001",
+          "BIOM9410",
+          "BIOM9711"
+        ],
+        "id": "Remaining courses to complete the 96 UOC major"
+      }
+    ],
+    "Free Electives": [
+      "FREE1",
+      "FREE2",
+      "FREE3",
+      "FREE4",
+      "FREE5",
+      "FREE6"
+    ],
+    "General Education": [
+      "GENED1",
+      "GENED2"
+    ]
+  }
+}

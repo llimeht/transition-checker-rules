@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "SOLAHS",
+      "name": "Photovoltaics and Solar Energy"
+    }
+  ],
+  "school": "SPREE",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Core": [
+      "ELEC1111",
+      "GSOE9010",
+      "GSOE9017",
+      "SOLA2060",
+      "SOLA3020",
+      "SOLA3507",
+      "SOLA4012",
+      "SOLA9001",
+      "SOLA9104",
+      {
+        "id": "Masters project",
+        "or": [
+          {
+            "and": [
+              "SOLA9451",
+              "SOLA9452",
+              "SOLA9453"
+            ]
+          },
+          {
+            "and": [
+              "SOLA9914",
+              "SOLA9915"
+            ]
+          }
+        ]
+      }
+    ],
+    "Approved options": [
+      {
+        "id": "30 UoC approved options",
+        "min": 5,
+        "from": [
+          "ETM1",
+          "GSOE9111",
+          "SOLA3010",
+          "SOLA5050",
+          "SOLA5051",
+          "SOLA5056",
+          "SOLA9101",
+          "SOLA9102",
+          "SOLA9103",
+          "SOLA9120"
+        ]
+      }
+    ]
+  }
+}

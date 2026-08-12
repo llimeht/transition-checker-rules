@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "MECHJS",
+      "name": "Mechanical and Advanced Manufacturing Engineering"
+    }
+  ],
+  "school": "MME",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped award requirements": [
+      {
+        "id": "MappedAwardRequirements",
+        "or": [
+          {
+            "and": [
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "GSOE9010",
+              "MECH3110",
+              "MECH3610",
+              "MMAN3200",
+              "MMAN3400",
+              "MMAN9001",
+              "MMAN9002"
+            ]
+          },
+          {
+            "and": [
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "ENGINEERING & TECHNICAL MANAGEMENT ELECTIVE",
+              "GSOE9010",
+              "MECH3110",
+              "MECH3610",
+              "MMAN3200",
+              "MMAN3400",
+              "MMAN9451",
+              "MMAN9452",
+              "MMAN9453"
+            ]
+          },
+          {
+            "and": [
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "ADVANCED DISCIPLINARY KNOWLEDGE ELECTIVES",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "DISCIPLINARY KNOWLEDGE ELECTIVE",
+              "GSOE9011",
+              "MECH3110",
+              "MECH3610",
+              "MMAN3200",
+              "MMAN3400",
+              "MMAN4400",
+              "MMAN9001",
+              "MMAN9002"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

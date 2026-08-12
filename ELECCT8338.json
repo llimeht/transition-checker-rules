@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "ELECCT",
+      "name": "Systems and Control"
+    }
+  ],
+  "school": "EET",
+  "uoc": 96,
+  "validity": {
+    "from": "2024",
+    "to": "2028"
+  },
+  "required": {
+    "Approved transition sequences": [
+      {
+        "and": [
+          "ELEC3114",
+          "ELEC4631",
+          "ELECDKE",
+          "ELEC4632",
+          "ELEC9732",
+          "ELECFNDCORE12UOC",
+          "ELEC4633",
+          "ELEC9731",
+          "ELECDKE",
+          "ELECPROCAP",
+          "ELECETM",
+          "ELECDKE",
+          "ELECRESEARCH",
+          "ELECPROCAP",
+          "ELECADKE",
+          "ELECADKE"
+        ],
+        "id": "ELECCT8338 mapped transition pathway"
+      }
+    ]
+  }
+}

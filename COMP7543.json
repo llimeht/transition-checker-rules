@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "7543",
+    "name": "Graduate Certificate in Computing"
+  },
+  "specialisations": [],
+  "school": "CSE",
+  "uoc": 24,
+  "validity": {
+    "from": "2027",
+    "to": "2028"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "and": [
+          "Elective",
+          "Elective",
+          "Elective",
+          "Elective"
+        ]
+      }
+    ]
+  }
+}

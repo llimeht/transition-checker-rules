@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "8338",
+    "name": "Master of Engineering Science"
+  },
+  "specialisations": [
+    {
+      "id": "BIOMFS",
+      "name": "Biomedical Engineering"
+    }
+  ],
+  "school": "BIOM",
+  "uoc": 96,
+  "validity": {
+    "from": "2026",
+    "to": "2029"
+  },
+  "required": {
+    "Foundational Core": [
+      "BABS1201",
+      "ANAT2511",
+      "PHSL2121",
+      "PHSL2221"
+    ],
+    "Advanced Core": [
+      "BIOM9410",
+      "BIOM9332"
+    ],
+    "Research Skills": [
+      {
+        "or": [
+          "GSOE9010",
+          "GSOE9011",
+          "GSOE9220",
+          "RSPR"
+        ]
+      }
+    ],
+    "Project": [
+      {
+        "or": [
+          "BIOM9914",
+          {
+            "and": [
+              "BIOM9020",
+              "BIOM9021"
+            ]
+          }
+        ]
+      }
+    ],
+    "Disciplinary Knowledge Electives": [
+      {
+        "min": 2,
+        "from": [
+          "BIOM9640",
+          "BIOM9310",
+          "BIOM9610",
+          "BIOM9910",
+          "BIOM9420",
+          "BIOM9561",
+          "BIOM9920",
+          "DSKE1",
+          "DSKE2"
+        ]
+      }
+    ],
+    "Engineering Technical Management": [
+      {
+        "min": 2,
+        "from": [
+          "GSOE9810",
+          "GSOE9340",
+          "GSOE9820",
+          "GSOE9712",
+          "GSOE9830",
+          "GSOE9997",
+          "GSOE9510",
+          "ENTM1",
+          "ENTM2"
+        ]
+      }
+    ],
+    "Advanced Disciplinary Knowledge Electives": [
+      {
+        "min": 3,
+        "from": [
+          "BIOM9450",
+          "BINF9020",
+          "BIOM9311",
+          "BIOM9551",
+          "BIOM9650",
+          "BIOM9701",
+          "MECH9650",
+          "BIOM9027",
+          "BIOM9333",
+          "BIOM9621",
+          "BIOM9660",
+          "BIOM9711",
+          "BIOM9541",
+          "ADKE1",
+          "ADKE2",
+          "ADKE3"
+        ]
+      }
+    ]
+  }
+}

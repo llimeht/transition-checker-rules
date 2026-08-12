@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Postgraduate",
+  "program": {
+    "id": "5546",
+    "name": "Graduate Diploma in Information Technology"
+  },
+  "specialisations": [
+    {
+      "id": "COMPTS",
+      "name": "Information Technology"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 72,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "or": [
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9311",
+              "COMP9331",
+              "COMP9820",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE"
+            ]
+          },
+          {
+            "and": [
+              "COMP9020",
+              "COMP9021",
+              "COMP9024",
+              "COMP9820",
+              "COMP9920",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE",
+              "ELECTIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
+  "status": "Under review",
+  "career": "Undergraduate",
+  "program": {
+    "id": "3778",
+    "name": "Bachelor of Science (Computer Science)"
+  },
+  "specialisations": [
+    {
+      "id": "COMPA1",
+      "name": "Computer Science"
+    }
+  ],
+  "school": "CSE",
+  "uoc": 144,
+  "validity": {
+    "from": "2024",
+    "to": "2029"
+  },
+  "required": {
+    "Mapped program requirements": [
+      {
+        "id": "MappedCurriculumVariant",
+        "and": [
+          "COMP1511",
+          "MATH1081",
+          "MATH1131",
+          "COMP1521",
+          "COMP1531",
+          "MATH1231",
+          "COMP2521",
+          "ELECTIVE",
+          "COMP2511",
+          "COME",
+          "ELECTIVE",
+          "COME",
+          "GEC",
+          "COMP3121",
+          "COMP4920",
+          "ELECTIVE",
+          "COME",
+          "COME",
+          "ELECTIVE",
+          "ELECTIVE",
+          "GEC",
+          "COMP3900",
+          "COME",
+          "ELECTIVE"
+        ]
+      }
+    ]
+  }
+}
