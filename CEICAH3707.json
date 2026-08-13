@@ -77,7 +77,20 @@
                 "min": 1,
                 "placeholder": "CEICbbbb",
                 "from": [
-                    "CEIC8104"
+                    "CEIC8104",
+                    "CEIC6712",
+                    "CEIC6714",
+                    "CEIC8204",
+                    "CEIC8341",
+                    "CHEM2041",
+                    "ELEC4445",
+                    "ENGG3001",
+                    "ENGG3741",
+                    "ENGG4111",
+                    "FOOD3010",
+                    "FOOD4450",
+                    "MECH4770",
+                    "MINE2820"
                 ]
             }
         ],
@@ -86,7 +99,13 @@
                 "min": 1,
                 "placeholder": "CEICdddd",
                 "from": [
-                    "CEIC8102"
+                    "CEIC8102",
+                    "CEIC6711",
+                    "CHEN6701",
+                    "CHEN6706",
+                    "CEIC6789",
+                    "CEIC8105",
+                    "CHEN6703"
                 ]
             }
         ],
