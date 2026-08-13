@@ -3,7 +3,7 @@
     "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
     "status": "Under review",
     "career": "Postgraduate",
-    "program": {"id": "7373", "name": "Graduate Certificate of Engineering Science"},
+    "program": {"id": "7373", "name": "Graduate Certificate in Engineering Science"},
     "specialisations": [
         {"id": "CEICOS", "name": "Chemical Engineering"}
     ],

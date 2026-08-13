@@ -3,7 +3,7 @@
     "warning": "UNOFFICIAL ACADEMIC RULES - FOR ADVISORS ONLY",
     "status": "Under review",
     "career": "Postgraduate",
-    "program": {"id": "5373", "name": "Graduate Diploma of Engineering Science"},
+    "program": {"id": "5373", "name": "Graduate Diploma in Engineering Science"},
     "specialisations": [
         {"id": "CEICLS", "name": "Chemical Engineering"}
     ],
