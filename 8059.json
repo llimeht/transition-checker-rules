@@ -4,28 +4,32 @@
   "status": "Under review",
   "career": "Postgraduate",
   "program": {
-    "id": "5059",
-    "name": "Mine Geotechnical Engineering"
+    "id": "8059",
+    "name": "Master of Mine Geotechnical Engineering"
   },
   "specialisations": [],
   "school": "MERE",
-  "uoc": 48,
+  "uoc": 72,
   "validity": {
     "from": "2026",
     "to": "2029"
   },
   "required": {
     "Program Core": [
+      "MINE5040",
+      "MINE5050",
       "MINE8120",
       "MINE8140",
+      "MINE8440",
+      "MINE8445",
       "MINE8680",
+      "MINE8710",
       "MINE8760",
-      "MINE8860"
+      "MINE8860",
+      "MINE8940"
     ],
-    "Mine Geotechnical Engineering Electives": [
-      "MINE_GEO_ELEC1",
-      "MINE_GEO_ELEC2",
-      "MINE_GEO_ELEC3"
+    "Mine Geotechnical Engineering Elective": [
+      "MINE_GEO_ELEC1"
     ]
   }
 }

@@ -4,12 +4,12 @@
   "status": "Under review",
   "career": "Postgraduate",
   "program": {
-    "id": "8335",
-    "name": "Mining Engineering"
+    "id": "5335",
+    "name": "Graduate Diploma in Mining Engineering"
   },
   "specialisations": [],
   "school": "MERE",
-  "uoc": 72,
+  "uoc": 48,
   "validity": {
     "from": "2026",
     "to": "2029"
@@ -19,17 +19,13 @@
       "MINE8101",
       "MINE8115",
       "MINE8120",
-      "MINE8440",
+      "MINE8140",
+      "MINE8760",
       "GSOE9010"
     ],
     "Prescribed Electives": [
-      "MINE_ELEC_MAS1",
-      "MINE_ELEC_MAS2",
-      "MINE_ELEC_MAS3",
-      "MINE_ELEC_MAS4",
-      "MINE_ELEC_MAS5",
-      "MINE_ELEC_MAS6",
-      "MINE_ELEC_MAS7"
+      "MINE_ELEC_PG1",
+      "MINE_ELEC_PG2"
     ]
   }
 }
